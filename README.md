@@ -6,7 +6,7 @@
 
 
 [![giovannellilab](https://img.shields.io/badge/BY-Giovannelli_Lab-blue)](http://dgiovannelli.github.io)
-[![DOI](https://zenodo.org/badge/DOI/xxx.svg)](https://doi.org/xxx)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6330968.svg)](https://doi.org/10.5281/zenodo.6330968)
 [![made-with-Markdown](https://img.shields.io/badge/Coded%20in-R-red.svg)](https://www.r-project.org/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
