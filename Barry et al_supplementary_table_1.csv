@@ -1,0 +1,418 @@
+sample_name,sampleID,region,lat,long,r420,d13c,r_ra,r_ea_err,rc_ra,rc_ra_err,co3_he3,co2_he3_err,phase,origin,reference
+Auco,CH-AU200310,SVZ,-32.89,-70.71,0.2,-12.15,0.96,NA,1.13,0.05,1712282056151.22,NA,W,this_study,2020BMS
+Bano Morales,CH-BM-200312,SVZ,-33.82,-70.06,8.1,-8.64,1.61,NA,1.63,0.05,NA,NA,G,this_study,2020BMS
+Campanario,CH-CP-200307,SVZ,-35.93,-70.59,64.2,-8.72,5.01,NA,5.03,0.14,10000000000,NA,G,this_study,2020BMS
+Chillan,CH1,SVZ,-36.9,-71.4,NA,-7.9,NA,NA,NA,NA,NA,NA,G,this_study,2022Felipe
+Chillan,CH3,SVZ,-36.9,-71.4,NA,-7.9,NA,NA,NA,NA,NA,NA,G,this_study,2022Felipe
+Chillan,CH5,SVZ,-36.9,-71.4,NA,-8.5,6.32,NA,NA,NA,50000000000,NA,G,this_study,2022Felipe
+Chillan,CH6,SVZ,-36.9,-71.4,NA,-8.3,6.23,NA,NA,NA,53000000000,NA,G,this_study,2022Felipe
+Cordon Caulle,Las Sopas,SVZ,-40.49,-72.17,NA,-4.1,6.6,NA,NA,NA,71000000000,NA,G,this_study,2022Felipe
+El Medano,CH-EM-200301,SVZ,-35.82,-70.76,0.4,-10.19,0.94,NA,0.74,0.03,34281350639.0367,NA,W,this_study,2020BMS
+Panamavida,CH-PM200308,SVZ,-35.76,-71.42,0.4,NA,1.12,NA,1.43,0.03,NA,NA,G,this_study,2020BMS
+Panamavida,CH-PM200308,SVZ,-35.76,-71.42,0.4,-15.34,0.97,NA,0.89,0.04,22720409826.2596,NA,W,this_study,2020BMS
+San Pedro bano termale,CH-SP-200302-2,SVZ,-35.14,-70.48,40,-12.56,2.46,NA,2.47,0.04,120000000,NA,G,this_study,2020BMS
+San Pedro bano termale,CH-SP200302-2,SVZ,-35.14,-70.48,59.5,-12.56,2.4,NA,2.4,0.05,47000000,NA,G,this_study,2020BMS
+Termas de Catillo,CH-CT200308,SVZ,-36.29,-71.65,0.3,NA,1.1,NA,NA,NA,NA,NA,G,this_study,2020BMS
+Termas de Catillo,CH-CT200308,SVZ,-36.29,-71.65,25.3,-17.17,0.65,NA,0.65,0.03,3687743220.29859,NA,W,this_study,2020BMS
+Termas de Cauquenes,CH-CQ200301,SVZ,-34.25,-70.56,68.9,-15.9,1.67,NA,1.68,0.08,NA,NA,G,this_study,2020BMS
+Termas del Flaco,CH-TF-200303,SVZ,-34.96,-70.43,4,-11.15,1.44,NA,1.48,0.04,2200000000,NA,G,this_study,2020BMS
+Termas del Flaco,CH-TF-200303,SVZ,-34.96,-70.43,0.6,-11.15,1.13,NA,1.27,0.02,39000000000,NA,G,this_study,2020BMS
+Termas del Flaco,CH-TF200303,SVZ,-34.96,-70.43,2.5,NA,1.35,NA,1.4,0.07,137464756413.861,NA,W,this_study,2020BMS
+Termas del Plomo,CH-TP-200304,SVZ,-33.62,-69.91,9.2,NA,2.52,NA,2.58,0.04,200000000,NA,G,this_study,2020BMS
+Termas del Plomo,CH-TP200304,SVZ,-33.62,-69.91,21.1,NA,2.32,NA,2.34,0.05,120000000,NA,G,this_study,2020BMS
+Aguas Caliente Galan,AR-GA190226,CVZ,-25.83,-66.92,177.3,-1.5,1.56,NA,1.56,0.07,87787131708.0839,NA,W,this_study,2019BMS
+Antuco,AR-AO190224,CVZ,-24.18,-66.67,99.8,-7.66,1.96,NA,1.96,0.09,6673353464.81371,NA,W,this_study,2019BMS
+Baños de Fleming,BF211031,CVZ,-24.59225,-64.90953,0.2,NA,0.82,NA,NA,0.04,NA,NA,G,this_study,2021Ago
+Botijuela Vista,AR-BJ190222,CVZ,-25.74,-67.82,64.5,NA,1.24,NA,1.24,0.06,82060688935.94,NA,W,this_study,2019BMS
+Caimancito,CA211030-1,CVZ,-23.74572,-64.51825,1.4,NA,0.59,NA,0.5,0.01,NA,NA,G,this_study,2021Ago
+Caimancito,CA211030-2,CVZ,-23.74429,-64.51986,n.d.,NA,0.48,NA,NA,NA,NA,NA,G,this_study,2021Ago
+El Ceibal,EC-211106,CVZ,-26.14969,-64.955,1.2,NA,0.71,NA,0.63,0.01,NA,NA,G,this_study,2021Ago
+Fiambalá,FB210806,CVZ,-27.7425,-67.54878,215.3,NA,0.24,NA,0.24,0,NA,NA,G,this_study,2021Ago
+Galan Fumerole,AR-GF190226-1,CVZ,-25.86,-66.99,197.9,NA,1.77,NA,1.77,0.04,4178001856.99905,NA,G,this_study,2019BMS
+Galan Fumerole,AR-GF190226-2,CVZ,-25.86,-66.99,217.7,-6.2,1.79,NA,1.79,0.04,4129584125.19274,NA,G,this_study,2019BMS
+Inca Chule,AR-IN190223,CVZ,-24.28,-66.47,106.7,-12,1.97,NA,1.97,0.04,NA,NA,G,this_study,2019BMS
+Inca Chule,AR-IN190223,CVZ,-24.28,-66.47,12.7,NA,1.77,NA,1.79,0.08,19665926845.9939,NA,W,this_study,2019BMS
+Inca Chule,AR-IN190223,CVZ,-24.28,-66.47,8.8,NA,1.68,NA,1.71,0.08,159272457401.868,NA,W,this_study,2019BMS
+La Colcha,AR-LC190226,CVZ,-26.03,-66.99,333.3,-7.5,1.45,NA,1.45,0.03,22239753128.9853,NA,G,this_study,2019BMS
+La Colcha,AR-LC190226,CVZ,-26.03,-66.99,545.6,-7.5,2.58,NA,2.58,0.06,685621182.931687,NA,G,this_study,2019BMS
+Pasto Grande,AR-PG190225,CVZ,-24.36,-66.57,107.7,-15.33,1.34,NA,1.34,0.06,NA,NA,W,this_study,2019BMS
+Pio Perez,AR-PP190301,CVZ,-25.41,-64.59,1.7,-1.2,0.36,NA,0.21,0,37188347148.891,NA,G,this_study,2019BMS
+Pio Perez,AR-PP190301,CVZ,-25.41,-64.59,1.4,-10.67,0.33,NA,0.14,0.01,21697208055.2422,NA,W,this_study,2019BMS
+Pio Perez,AR-PP190301,CVZ,-25.41,-64.59,1.1,-10.67,0.36,NA,0.11,0.01,4864360331.27374,NA,W,this_study,2019BMS
+Pizarro,PZ211029,CVZ,-24.23715,-64.15768,25.4,NA,0.51,NA,0.51,0.01,NA,NA,G,this_study,2021Ago
+Rosairio de la Frontera,AR-RF190301,CVZ,-25.84,-64.93,6,-8.28,0.36,NA,0.33,0.02,95764291022.7032,NA,W,this_study,2019BMS
+Tocomar,AR-TM190224,CVZ,-24.19,-66.55,72.3,-11.7,2.47,NA,2.48,0.05,168423471199.319,NA,G,this_study,2019BMS
+Villa Vil,AR-VV190228,CVZ,-27.11,-66.82,79.5,-13.28,0.9,NA,0.89,0.04,8828051197.98385,NA,W,this_study,2019BMS
+Agua de la Vaca,VA,SVZ,-38.58,-71.63,2.5,-13.7,3.91,0.08,4.33,0.01,60000000,NA,G,published,Tardani 2016 GCA
+Aguas Calientes,AC,SVZ,-40.74,-72.31,34.8,-9.5,5.66,NA,6.12,1.07,8900000000,1600000000,W,published,2009Ray
+Anfiteatro,AF1,SVZ,-37.82,-71.11,2445,-6.8,NA,NA,5.01,NA,1400000000,NA,G,published,2013Augusto
+Anfiteatro,AF2,SVZ,-37.82,-71.11,NA,-7,NA,NA,4.93,NA,4200000000,NA,G,published,2013Augusto
+Azufre volcano,Azf2,SVZ,-35.32,-70.54,NA,-11.9,NA,NA,NA,NA,NA,NA,G,published,2016Tassi
+Balboa,BB1,SVZ,-38.96,-71.71,357.9,-10.8,6.41,NA,6.46,0.15,2620000000,100000000,W,published,2009Ray
+Balboa,BB2,SVZ,-38.96,-71.71,461.5,-10.8,6.43,NA,6.47,0.15,2620000000,100000000,W,published,2009Ray
+Ban˜ os del Toro (Sierra,BT,SVZ,-38.57,-71.62,51.3,-8.8,4.59,0.09,4.61,0.01,8730000000,NA,G,published,Tardani 2016 GCA
+Bano 7,BN7,SVZ,-37.82,-71.1,391.2,-8.3,7.6,NA,7.6,0.1,9800000000,200000000,G,published,2006Varekamp
+Baños Los Humos,30a,SVZ,-34.8,-70.46,NA,-8.9,NA,NA,NA,NA,NA,NA,G,published,2016Benavente
+Baños Los Humos,30b,SVZ,-34.8,-70.46,17,-8.5,3.85,NA,3.9,NA,66000000000,NA,G,published,2016Benavente
+Baños Los Humos,30c,SVZ,-34.8,-70.46,38,-8.7,3.58,NA,3.6,NA,108000000000,NA,G,published,2016Benavente
+Baños Morales,24,SVZ,-33.82,-70.06,NA,-8.6,1.53,NA,1.81,NA,138000000000,NA,G,published,2016Benavente
+Barro Colorado,39a,SVZ,-35.41,-70.48,56,-5.72,3.26,NA,3.27,NA,146000000000,NA,G,published,2016Benavente
+Chancho Co,CC2,SVZ,-37.82,-71.16,914,NA,NA,NA,5.02,NA,7900000000,NA,G,published,2013Augusto
+Chancho Co,CC3,SVZ,-37.83,-71.11,NA,-8.1,NA,NA,7.01,NA,8800000000,NA,G,published,2013Augusto
+Chihuío,CHH,SVZ,-40.19,-71.93,103.6,-10.8,4.31,NA,4.41,0.12,930000000,30000000,W,published,2009Ray
+Chillán,F,SVZ,-36.9,-71.41,4.5,-7.8,2.38,NA,2.49,0.09,34700000000,1300000000,G,published,2009Ray
+Chillán,F2,SVZ,-36.9,-71.41,96.4,-6,2.55,NA,2.6,0.2,40200000000,3000000000,G,published,2009Ray
+Coñaripe,CN,SVZ,-39.64,-71.92,210.6,-11.3,4.09,NA,4.13,0.09,3630000000,100000000,W,published,2009Ray
+COP,COP2,SVZ,-37.83,-71.11,6.72,-7.5,NA,NA,7.37,NA,57000000000,NA,G,published,2013Augusto
+Copahue,AF,SVZ,-37.84,-71.19,38.7,-7.39,4.61,0.1,4.64,0.14,NA,NA,G,published,2021Tardani
+Copahue,CB,SVZ,-37.84,-71.19,7.1,-7.51,6.79,0.14,7.06,0.2,NA,NA,G,published,2021Tardani
+Copahue,CLM,SVZ,-37.84,-71.19,471.46,-7.71,7.17,0.39,7.17,0.42,NA,NA,G,published,2021Tardani
+Copahue,COP-2,SVZ,-37.84,-71.19,323.8,-7.81,6.43,0.14,6.44,0.19,NA,NA,G,published,2021Tardani
+Copahue,COP-2-WG-15,SVZ,-37.84,-71.19,233.61,-6.96,7.5,0.06,7.51,0.06,4480000000,NA,G,published,2016Roulleau
+Copahue,COP-AF-BG-15,SVZ,-37.84,-71.19,0.99,-6.18,3.76,0.08,4.66,0.08,NA,NA,G,published,2016Roulleau
+Copahue,COP-AF-Fl-14,SVZ,-37.84,-71.19,55.23,-7.9,5.27,0.11,5.29,0.01,17100000000,NA,G,published,2016Roulleau
+Copahue,COP-AF-Fl-15,SVZ,-37.84,-71.19,70.94,-6.52,5.37,0.03,5.39,0.03,2520000000,NA,G,published,2016Roulleau
+Copahue,COP-CB-Fl-14,SVZ,-37.84,-71.19,8.51,-8.1,7.27,0.15,7.51,0.3,10800000000,NA,G,published,2016Roulleau
+Copahue,COP-CB-Fl-15,SVZ,-37.84,-71.19,652.17,NA,7.86,0.07,7.86,0.07,6900000000,NA,G,published,2016Roulleau
+Copahue,COP-CC-Fl-14,SVZ,-37.84,-71.19,3.21,-9.82,4.78,0.1,5.19,0.45,97000000000,NA,G,published,2016Roulleau
+Copahue,COP-CC2-Fl-15,SVZ,-37.84,-71.19,0.95,-6.92,3.65,0.02,4.57,0.03,7660000000,NA,G,published,2016Roulleau
+Copahue,COP-CC3-W-15,SVZ,-37.84,-71.19,1.64,-8.24,3.7,0.08,4.18,0.08,NA,NA,W,published,2016Roulleau
+Copahue,COP-LM-BG-15,SVZ,-37.84,-71.19,82.12,-6.52,7.47,0.15,7.49,0.15,10800000000,NA,G,published,2016Roulleau
+Copahue,COP-LM-FL-15,SVZ,-37.84,-71.19,562.38,-6.95,7.09,0.04,7.1,0.04,6500000000,NA,G,published,2016Roulleau
+Copahue,COP-LM2-BG-15,SVZ,-37.84,-71.19,NA,-6.27,NA,NA,NA,NA,NA,NA,G,published,2016Roulleau
+Copahue,COP-LMM-BG-14,SVZ,-37.84,-71.19,81.59,-7.38,7.57,0.15,7.59,0.01,5500000000,NA,G,published,2016Roulleau
+Copahue,COP-LMM-BG-15,SVZ,-37.84,-71.19,12.32,-6.02,7.32,0.06,7.45,0.06,4670000000,NA,G,published,2016Roulleau
+Copahue,COP-LV-BG-15,SVZ,-37.84,-71.19,32.43,-6.11,7.49,0.03,7.55,0.03,6730000000,NA,G,published,2016Roulleau
+Copahue,COP-PM-BG-15,SVZ,-37.84,-71.19,14.59,-10.45,6.49,0.04,6.59,0.04,27900000000,NA,G,published,2016Roulleau
+Copahue,COP-TC-BG-15,SVZ,-37.84,-71.19,16.92,-6.45,7.49,0.09,7.59,0.09,6200000000,NA,G,published,2016Roulleau
+Copahue,CPH,SVZ,-37.84,-71.19,173.83,-7.56,7.35,0.21,7.36,0.26,NA,NA,G,published,2021Tardani
+Copahue,LMM,SVZ,-37.84,-71.19,27.17,-7.23,8.28,0.18,8.37,0.25,NA,NA,G,published,2021Tardani
+Copahue Volcano,Anfiteatro,SVZ,-37.84,-71.19,23,-7.6,NA,NA,4.63,NA,7700000000,NA,G,published,2017Tassi
+Copahue Volcano,Anfiteatro,SVZ,-37.84,-71.19,1996,-7,NA,NA,4.93,NA,4300000000,NA,G,published,2017Tassi
+Copahue Volcano,Anfiteatro,SVZ,-37.84,-71.19,2445,-6.8,NA,NA,5.01,NA,1400000000,NA,G,published,2017Tassi
+Copahue Volcano,Anfiteatro,SVZ,-37.84,-71.19,254,-8.5,NA,NA,5.09,NA,6800000000,NA,G,published,2017Tassi
+Copahue Volcano,Anfiteatro,SVZ,-37.84,-71.19,216,-8.5,NA,NA,5.12,NA,8400000000,NA,G,published,2017Tassi
+Copahue Volcano,Anfiteatro,SVZ,-37.84,-71.19,217,-8.8,NA,NA,5.16,NA,7500000000,NA,G,published,2017Tassi
+Copahue Volcano,Chancho Co,SVZ,-37.84,-71.19,1058,-8.1,NA,NA,4.04,NA,8500000000,NA,G,published,2017Tassi
+Copahue Volcano,Chancho Co,SVZ,-37.84,-71.19,84,-8.3,NA,NA,4.07,NA,9000000000,NA,G,published,2017Tassi
+Copahue Volcano,Chancho Co,SVZ,-37.84,-71.19,144,-7.8,NA,NA,4.21,NA,12000000000,NA,G,published,2017Tassi
+Copahue Volcano,Chancho Co,SVZ,-37.84,-71.19,914,-8.3,NA,NA,5.02,NA,3800000000,NA,G,published,2017Tassi
+Copahue Volcano,Chancho Co,SVZ,-37.84,-71.19,217,-9.3,NA,NA,5.12,NA,7500000000,NA,G,published,2017Tassi
+Copahue Volcano,Chancho Co,SVZ,-37.84,-71.19,186,-9.2,NA,NA,5.22,NA,6800000000,NA,G,published,2017Tassi
+Copahue Volcano,Chancho Co,SVZ,-37.84,-71.19,75,-8.8,NA,NA,5.35,NA,9100000000,NA,G,published,2017Tassi
+Copahue Volcano,cristina 1,SVZ,-37.84,-71.19,458,-9.6,NA,NA,7.75,NA,3000000000,NA,G,published,2017Tassi
+Copahue Volcano,cristina 2,SVZ,-37.84,-71.19,NA,-9.5,NA,NA,NA,NA,NA,NA,G,published,2017Tassi
+Copahue Volcano,Las Maquinas,SVZ,-37.84,-71.19,485,-7.9,NA,NA,6.43,NA,8900000000,NA,G,published,2017Tassi
+Copahue Volcano,Las Maquinas,SVZ,-37.84,-71.19,333,-7.1,NA,NA,6.48,NA,9600000000,NA,G,published,2017Tassi
+Copahue Volcano,Las Maquinas,SVZ,-37.84,-71.19,115,-6.9,NA,NA,6.67,NA,8500000000,NA,G,published,2017Tassi
+Copahue Volcano,Las Maquinas,SVZ,-37.84,-71.19,1215,-7.3,NA,NA,7.04,NA,6200000000,NA,G,published,2017Tassi
+Copahue Volcano,Las Maquinas,SVZ,-37.84,-71.19,729,-8.3,NA,NA,7.5,NA,NA,NA,G,published,2017Tassi
+Copahue Volcano,Las Maquinas,SVZ,-37.84,-71.19,68,-8,NA,NA,7.52,NA,8200000000,NA,G,published,2017Tassi
+Copahue Volcano,Las Maquinas,SVZ,-37.84,-71.19,571,-8.6,NA,NA,7.6,NA,7500000000,NA,G,published,2017Tassi
+Copahue Volcano,Las Maquinas,SVZ,-37.84,-71.19,1025,-9.6,NA,NA,7.65,NA,5900000000,NA,G,published,2017Tassi
+Copahue Volcano,Las Maquinas,SVZ,-37.84,-71.19,845,-9.4,NA,NA,7.71,NA,6200000000,NA,G,published,2017Tassi
+Copahue Volcano,Las Maquinas,SVZ,-37.84,-71.19,1898,-8.2,NA,NA,7.72,NA,3300000000,NA,G,published,2017Tassi
+Copahue Volcano,Las Maquinas,SVZ,-37.84,-71.19,NA,-8.8,NA,NA,NA,NA,NA,NA,G,published,2017Tassi
+Copahue Volcano,Las Maquinitas,SVZ,-37.84,-71.19,354,-7.8,NA,NA,5.89,NA,8000000000,NA,G,published,2017Tassi
+Copahue Volcano,Las Maquinitas,SVZ,-37.84,-71.19,1330,-7.1,NA,NA,6.97,NA,5200000000,NA,G,published,2017Tassi
+Copahue Volcano,Las Maquinitas,SVZ,-37.84,-71.19,420,-8.2,NA,NA,7.67,NA,8100000000,NA,G,published,2017Tassi
+Copahue Volcano,Las Maquinitas,SVZ,-37.84,-71.19,512,-8.1,NA,NA,7.68,NA,5700000000,NA,G,published,2017Tassi
+Copahue Volcano,Las Maquinitas,SVZ,-37.84,-71.19,644,-8.3,NA,NA,7.71,NA,6700000000,NA,G,published,2017Tassi
+Copahue Volcano,Las Maquinitas,SVZ,-37.84,-71.19,1679,-7.7,NA,NA,7.94,NA,3100000000,NA,G,published,2017Tassi
+Copahue Volcano,Las Maquinitas,SVZ,-37.84,-71.19,NA,NA,NA,NA,NA,NA,NA,NA,G,published,2017Tassi
+Copahue Volcano,Piedra Copahue,SVZ,-37.84,-71.19,505,-6.7,NA,NA,6.79,NA,8500000000,NA,G,published,2017Tassi
+Copahue Volcano,Piedra Copahue,SVZ,-37.84,-71.19,1048,-7,NA,NA,7.01,NA,8800000000,NA,G,published,2017Tassi
+Copahue Volcano,Piedra Copahue,SVZ,-37.84,-71.19,1957,-7.7,NA,NA,7.36,NA,1500000000,NA,G,published,2017Tassi
+Copahue Volcano,Piedra Copahue,SVZ,-37.84,-71.19,1228,-8.3,NA,NA,7.6,NA,NA,NA,G,published,2017Tassi
+Copahue Volcano,Piedra Copahue,SVZ,-37.84,-71.19,785,-7.5,NA,NA,7.74,NA,8100000000,NA,G,published,2017Tassi
+Copahue Volcano,Piedra Copahue,SVZ,-37.84,-71.19,913,-8.7,NA,NA,7.94,NA,5200000000,NA,G,published,2017Tassi
+Copahue Volcano,Piedra Copahue,SVZ,-37.84,-71.19,1045,-8.2,NA,NA,7.96,NA,4000000000,NA,G,published,2017Tassi
+Cordon Caulle,AC,SVZ,-40.49,-72.17,NA,NA,7,NA,7.3,NA,30000000,NA,G,published,2007Sepulveda
+Cordon Caulle,AZ,SVZ,-40.49,-72.17,NA,NA,2.5,NA,8,NA,39300000000,NA,G,published,2007Sepulveda
+Cordon Caulle,LS1,SVZ,-40.49,-72.17,NA,NA,6,NA,6.4,NA,94000000000,NA,G,published,2007Sepulveda
+Cordon Caulle,LS2,SVZ,-40.49,-72.17,NA,NA,5.7,NA,6.2,NA,102000000000,NA,G,published,2007Sepulveda
+Cupio,Cp1,SVZ,-40.16,-71.92,NA,NA,2.3,NA,NA,NA,NA,NA,G,published,2016Aguilera
+Domuyo,D1a,SVZ,-36.6,-70.45,1.3,-7.05,1.92,NA,NA,NA,366000000000,NA,G,published,2016Tassi
+Domuyo,D1b,SVZ,-36.6,-70.45,1.5,NA,1.86,NA,NA,NA,NA,NA,G,published,2016Tassi
+Domuyo,D1d,SVZ,-36.6,-70.45,2.3,-7.34,1.95,NA,NA,NA,49200000000,NA,G,published,2016Tassi
+Domuyo,D2b,SVZ,-36.6,-70.45,78.4,NA,5.63,NA,NA,NA,NA,NA,G,published,2016Tassi
+Domuyo,D2c,SVZ,-36.6,-70.45,35,-8,4.89,NA,NA,NA,1360000000,NA,G,published,2016Tassi
+Domuyo,D3c,SVZ,-36.6,-70.45,NA,-8.05,NA,NA,NA,NA,NA,NA,G,published,2016Tassi
+Domuyo,D4a,SVZ,-36.6,-70.45,4.1,-9.58,4.98,NA,NA,NA,4880000000,NA,G,published,2016Tassi
+Domuyo,D4b,SVZ,-36.6,-70.45,8.1,NA,4.55,NA,NA,NA,NA,NA,G,published,2016Tassi
+Domuyo,D5a,SVZ,-36.6,-70.45,59,NA,6.82,NA,NA,NA,NA,NA,G,published,2016Tassi
+Domuyo,D5d,SVZ,-36.6,-70.45,76,-6.95,6.91,NA,NA,NA,2130000000,NA,G,published,2016Tassi
+Domuyo,D5e,SVZ,-36.6,-70.45,NA,-7.1,NA,NA,NA,NA,NA,NA,G,published,2016Tassi
+Domuyo,D5g,SVZ,-36.6,-70.45,NA,NA,6.88,NA,NA,NA,NA,NA,G,published,2016Tassi
+Domuyo,D9a,SVZ,-36.6,-70.45,NA,-7.75,NA,NA,NA,NA,NA,NA,G,published,2016Tassi
+Domuyo,D9b,SVZ,-36.6,-70.45,3.19,NA,4.29,NA,NA,NA,NA,NA,G,published,2016Tassi
+Eco Termas Pellaifa,PF,SVZ,-39.63,-71.92,1.3,-23.9,3.39,0.04,4.38,0.06,3860000000,NA,W,published,Tardani 2016 GCA
+Estero del Volcan,47a,SVZ,-35.5,-70.76,351,-8.12,3.4,NA,3.4,NA,36000000000,NA,G,published,2016Benavente
+Geométricas,B,SVZ,-39.5,-71.87,35.5,-17.1,4.15,NA,4.46,0.15,677000,10000,G,published,2009Ray
+Geométricas,BW,SVZ,-39.5,-71.87,30.5,-13.2,4.11,NA,4.47,0.21,2200000000,100000000,G,published,2009Ray
+Glacial valley,Gen2,SVZ,-35.25,-70.51,35,-12.6,NA,NA,3.21,NA,64000000000,NA,G,published,2016Tassi
+Glacial valley,Gen2,SVZ,-35.25,-70.51,75,-12.6,NA,NA,5.94,NA,20000000000,NA,G,published,2016Tassi
+Hipólito Muñoz,HM1,SVZ,-39.76,-71.79,69.7,-6.4,2.78,NA,2.86,0.13,5280000000,300000000,W,published,2009Ray
+Hipólito Muñoz,HM2,SVZ,-39.76,-71.79,111.1,-5.9,2.9,NA,2.96,0.14,6120000000,300000000,W,published,2009Ray
+Jaime Muro (Tolhuaca,JM,SVZ,-38.29,-71.67,16.1,-9.8,6.38,0.13,6.49,0.05,13000000000,NA,G,published,Tardani 2016 GCA
+La Plata,50,SVZ,-35.94,-70.58,70,-8.9,3.39,NA,3.4,NA,4700000000,NA,G,published,2016Benavente
+La Plata,51,SVZ,-35.94,-70.58,86,-8.1,3.79,NA,3.8,NA,4200000000,NA,G,published,2016Benavente
+Las Maquinas,LM,SVZ,-37.82,-71.1,232.2,-8.3,7.5,NA,7.6,0.1,9000000000,100000000,G,published,2006Varekamp
+Las Maquinas,LM1,SVZ,-37.83,-71.08,1898,-8.2,NA,NA,7.72,NA,3200000000,NA,G,published,2013Augusto
+Las Maquinas,LM4,SVZ,-37.84,-71.09,NA,-7.3,NA,NA,7.04,NA,6400000000,NA,G,published,2013Augusto
+Las Maquinas,LMM1,SVZ,-37.83,-71.08,1679,-7.7,NA,NA,7.94,NA,3000000000,NA,G,published,2013Augusto
+Las Maquinas,LMM2,SVZ,-37.82,-71.09,NA,-7.1,NA,NA,6.97,NA,5100000000,NA,G,published,2013Augusto
+Las Maquinas (Copahue,LM,SVZ,-37.83,-71.08,67.6,-8,7.48,0.15,7.52,0.01,8270000000,NA,G,published,Tardani 2016 GCA
+Liquiñe,LQ,SVZ,-39.74,-71.83,21.4,-11.7,1.92,NA,2.07,0.07,21500000000,700000000,W,published,2009Ray
+Los Azufres,Cur,SVZ,-35.25,-70.51,36,-12.6,NA,NA,1.19,NA,14000000000,NA,G,published,2016Tassi
+Los Azufres,Pel,SVZ,-35.29,-70.53,115,-12.1,NA,NA,3.12,NA,50000000000,NA,G,published,2016Tassi
+Los Azufres,Pel,SVZ,-35.29,-70.53,131,-13.2,NA,NA,3.69,NA,75000000000,NA,G,published,2016Tassi
+Malacahuello,GW,SVZ,-38.49,-71.59,99.5,-16.8,2.71,NA,2.77,0.07,2270000000,100000000,G,published,2009Ray
+Malacahuello,GW,SVZ,-38.49,-71.59,127.8,-14.9,2.74,NA,2.79,0.07,1870000000,100000000,G,published,2009Ray
+Manzanar,G(gas),SVZ,-38.47,-71.71,205.9,-14.7,1.49,NA,1.5,0.28,311000,10000000,G,published,2009Ray
+Minetúe,MN,SVZ,-39.25,-71.72,208.4,-17.7,4.89,NA,4.95,0.13,1460000000,40000000,W,published,2009Ray
+Monumento El Morado,22,SVZ,-33.82,-70.06,8.5,-9.76,0.49,NA,0.47,NA,222000000000,NA,G,published,2016Benavente
+Nevado de Chillan Vn.,NC,SVZ,-36.91,-71.4,3.1,-9.3,3.4,0.07,3.68,0.1,17800000000,NA,G,published,Tardani 2016 GCA
+Nitrao,NIT1,SVZ,-37.69,-71.3,142.2,-13.9,3.16,NA,3.21,0.07,3820000000,100000000,W,published,2009Ray
+Nitrao,NIT2,SVZ,-37.69,-71.3,107.7,-11.5,3.31,NA,3.38,0.07,4200000000,100000000,W,published,2009Ray
+Parque Termal Menetùe,ME,SVZ,-39.33,-71.72,4.5,-27.4,5.05,0.01,5.42,0.01,290000000,NA,W,published,Tardani 2016 GCA
+Pelehue,PL,SVZ,-38.12,-71.06,15.7,-7.4,7.53,0.15,7.67,0.1,1560000000,NA,G,published,Tardani 2016 GCA
+Peteroa,Pet1,SVZ,-35.24,-70.57,305,-11.2,NA,NA,4.43,NA,17000000000,NA,G,published,2016Tassi
+Peteroa,Pet1,SVZ,-35.24,-70.57,456,-7.5,NA,NA,6.68,NA,57000000000,NA,G,published,2016Tassi
+Peteroa,Pet3,SVZ,-35.24,-70.57,387,-11.2,NA,NA,4.46,NA,18000000000,NA,G,published,2016Tassi
+Peteroa,Pet3,SVZ,-35.24,-70.57,711,-7.6,NA,NA,6.87,NA,85000000000,NA,G,published,2016Tassi
+Peteroa,Pet4,SVZ,-35.24,-70.57,NA,-3,NA,NA,NA,NA,NA,NA,G,published,2016Tassi
+Peteroa,Pet5,SVZ,-35.24,-70.57,289,-3.6,NA,NA,7.11,NA,67000000000,NA,G,published,2016Tassi
+Peteroa,Pet6,SVZ,-35.24,-70.57,NA,-2,NA,NA,NA,NA,NA,NA,G,published,2016Tassi
+Peteroa,Pet7,SVZ,-35.24,-70.57,662,-11.6,NA,NA,4.46,NA,17000000000,NA,G,published,2016Tassi
+Peteroa,Pet7,SVZ,-35.24,-70.57,454,NA,NA,NA,5.62,NA,36000000000,NA,G,published,2016Tassi
+Peteroa,Pet7,SVZ,-35.24,-70.57,511,-6.2,NA,NA,6.51,NA,62000000000,NA,G,published,2016Tassi
+Peteroa,Pet7,SVZ,-35.24,-70.57,511,-5.8,NA,NA,6.59,NA,49000000000,NA,G,published,2016Tassi
+Peteroa,Pet8,SVZ,-35.24,-70.57,398,-11.4,NA,NA,4.44,NA,14000000000,NA,G,published,2016Tassi
+Piedra Copahue,PC2,SVZ,-37.83,-71.11,1957,-7.7,NA,NA,7.36,NA,1500000000,NA,G,published,2013Augusto
+Piedra Copahue,PC3,SVZ,-37.82,-71.15,NA,-7,NA,NA,4.04,NA,8800000000,NA,G,published,2013Augusto
+Pucon Mahuida,PM,SVZ,-37.9,-71.18,27.6,-11.9,6.16,0.12,6.23,0.02,57800000000,NA,W,published,Tardani 2016 GCA
+Puente de Tierra,27,SVZ,-34.09,-70.06,NA,-10.9,NA,NA,NA,NA,NA,NA,G,published,2016Benavente
+Puyehue,PY,SVZ,-40.71,-72.33,117.1,-14.1,5.15,NA,5.27,0.14,3750000000,100000000,W,published,2009Ray
+Quilaquin,QQ1,SVZ,-37.61,-71.41,112.7,-16.6,4.23,NA,4.33,0.15,1380000000,100000000,W,published,2009Ray
+Quilaquin,QQ2,SVZ,-37.61,-71.41,100.5,-14.3,4.23,NA,4.33,0.2,1860000000,100000000,W,published,2009Ray
+Quimey-Co,QC1,SVZ,-39.22,-71.7,52.4,-17.1,4.27,NA,4.48,0.78,2670000000,500000000,W,published,2009Ray
+Quimey-Co,QC2,SVZ,-39.22,-71.7,54.3,-17.2,4.52,NA,4.74,0.82,2710000000,500000000,W,published,2009Ray
+Ratios Morales,RM,SVZ,-33.8,-70.2,27.2,NA,2.16,NA,2.17,NA,NA,NA,G,published,93Hilton
+Rio Blanco,RB,SVZ,-39.11,-71.61,30.5,-11.9,4.25,NA,4.63,0.08,1800000,30000,G,published,2009Ray
+Rio Blanco,RB2,SVZ,-39.11,-71.61,168.9,-7.3,4.45,NA,4.51,0.11,3070000000,100000000,G,published,2009Ray
+Rio Blanco Las Vacas,RBLV,SVZ,-38.58,-71.63,21.5,-12.1,3.06,NA,3.41,0.6,31700000000,5000000000,W,published,2009Ray
+San Jose,52,SVZ,-33.78,-69.9,95,-9.03,2.9,NA,2.91,NA,22000000000,NA,G,published,2016Benavente
+Termas Aguas Cal.,TAG,SVZ,-40.72,-72.33,10.2,NA,6.47,NA,6.65,NA,NA,NA,W,published,93Hilton
+Termas Catillo,TCT,SVZ,-36.28,-71.65,7.6,NA,0.66,NA,0.65,NA,NA,NA,W,published,93Hilton
+Termas Cauquenes,TCQ,SVZ,-34.25,-70.55,34.7,NA,1.56,NA,1.57,NA,NA,NA,W,published,93Hilton
+Termas Chillan,TCH,SVZ,-36.87,-71.73,7.7,NA,3.52,NA,3.63,NA,NA,NA,G,published,93Hilton
+Termas de Aguas Calientes,AC,SVZ,-40.73,-72.31,14.2,-20.5,6.77,0.14,6.91,0.01,NA,NA,G,published,Tardani 2016 GCA
+Termas de Balboa,TBB,SVZ,-38.96,-71.71,5.2,-19.2,6.34,0.06,6.75,0.03,11700000000,NA,G,published,Tardani 2016 GCA
+Termas de Chihuio,CH,SVZ,-40.19,-71.93,3.4,-23,4.08,0.08,4.4,0.01,10000000,NA,W,published,Tardani 2016 GCA
+Termas de Con˜ aripe,CO,SVZ,-39.63,-71.92,1.7,-20.1,3.69,0.1,4.29,0.03,1530000000,NA,W,published,Tardani 2016 GCA
+Termas de Coyuco,CU,SVZ,-38.19,-71.04,2.2,-7.8,5.89,0.13,6.69,0.1,116000000000,NA,W,published,Tardani 2016 GCA
+Termas de Palguin,PA,SVZ,-39.42,-71.79,4.2,-49.4,3.58,0.07,3.79,0,10000000,NA,G,published,Tardani 2016 GCA
+Termas de Pemehue,PE,SVZ,-38.08,-71.7,55.5,-25.8,4.69,0.1,4.71,0.01,410000000,NA,W,published,Tardani 2016 GCA
+Termas de Puyehue,TPU,SVZ,-40.71,-72.32,1.4,-22.6,4.89,0.11,6.07,0.17,340000000,NA,W,published,Tardani 2016 GCA
+Termas de Rio Blanco,RB,SVZ,-39.11,-71.61,1.6,-17,3.56,0,4.36,0.04,1550000000,NA,W,published,Tardani 2016 GCA
+Termas de Rupanco,RU,SVZ,-40.86,-72.22,4.2,-14.7,6.52,0.13,6.97,0.04,10000000,NA,G,published,Tardani 2016 GCA
+Termas de Trafipan,TR,SVZ,-39.74,-71.86,2.7,-23.7,4.43,0.09,4.89,0.02,60000000,NA,W,published,Tardani 2016 GCA
+Termas del Avellano,AV,SVZ,-37.99,-71.53,21.3,-20.4,4.41,0.09,4.46,0,NA,NA,G,published,Tardani 2016 GCA
+Termas del Campanario,49,SVZ,-35.93,-70.59,NA,-11.1,NA,NA,NA,NA,NA,NA,G,published,2016Benavente
+Termas del Campanario,49a,SVZ,-35.93,-70.59,1.5,-11.1,0.65,NA,0.55,NA,213000000000,NA,G,published,2016Benavente
+Termas del Flaco,32,SVZ,-34.96,-70.43,NA,-9.77,NA,NA,NA,NA,NA,NA,G,published,2016Benavente
+Termas del Flaco,33,SVZ,-34.96,-70.43,47,-8.34,2.12,NA,2.13,NA,29000000000,NA,G,published,2016Benavente
+Termas del Plomo,21a,SVZ,-33.62,-69.91,0.8,-7.76,1.05,NA,1.07,NA,151000000000,NA,G,published,2016Benavente
+Termas Liquine,TL,SVZ,-39.42,-71.75,4.9,NA,2.68,NA,2.79,NA,NA,NA,W,published,93Hilton
+Termas Manzanar,TMZ,SVZ,-38.43,-71.67,1.3,NA,1.44,NA,1.59,NA,NA,NA,W,published,93Hilton
+Termas Menetue,TM,SVZ,-39.32,-71.73,4.5,NA,4.82,NA,5.11,NA,NA,NA,W,published,93Hilton
+Termas Palguin I,TPI,SVZ,-39.38,-71.78,4.6,NA,3.48,NA,3.66,NA,NA,NA,G,published,93Hilton
+Termas Palguin II,TPII,SVZ,-39.38,-71.78,1.5,NA,3.34,NA,3.96,NA,NA,NA,W,published,93Hilton
+Termas Quimey-Có,QC,SVZ,-39.22,-71.7,2.7,-30.7,4.67,0.05,5.27,0.03,NA,NA,G,published,Tardani 2016 GCA
+Termas San Luis,TSL,SVZ,-39.35,-71.55,2.5,NA,3.42,NA,3.78,NA,NA,NA,G,published,93Hilton
+Termas Tolhuaca,TTH1,SVZ,-38.23,-71.73,2.5,NA,4.55,NA,5.07,NA,NA,NA,G,published,93Hilton
+Termas Tolhuaca,TTH2,SVZ,-38.23,-71.73,0.6,NA,2.58,NA,4.64,NA,NA,NA,W,published,93Hilton
+Tolhuaca⁎,TH,SVZ,-38.24,-71.72,14.8,-2.9,2.74,NA,3.2,0.18,232000000000,13000000000,W,published,2009Ray
+Trapa Trapa,TT,SVZ,-37.7,-71.28,48.8,-25.5,4.38,0.09,4.4,0,10000000,NA,W,published,Tardani 2016 GCA
+Tupungatito,Tu1,SVZ,-33.39,-69.82,NA,-7.65,5.45,NA,NA,NA,154000000000,NA,G,published,2013Benavente
+Tupungatito,Tu10,SVZ,-33.39,-69.82,NA,-6.29,5.41,NA,NA,NA,195000000000,NA,G,published,2013Benavente
+Tupungatito,Tu11,SVZ,-33.39,-69.82,NA,-6.56,NA,NA,NA,NA,NA,NA,G,published,2013Benavente
+Tupungatito,Tu12,SVZ,-33.39,-69.82,NA,-6.67,5.78,NA,NA,NA,214000000000,NA,G,published,2013Benavente
+Tupungatito,Tu13,SVZ,-33.39,-69.82,NA,-7.31,NA,NA,NA,NA,NA,NA,G,published,2013Benavente
+Tupungatito,Tu2,SVZ,-33.39,-69.82,NA,-6.92,NA,NA,NA,NA,NA,NA,G,published,2013Benavente
+Tupungatito,Tu3,SVZ,-33.39,-69.82,NA,-8.16,5.19,NA,NA,NA,143000000000,NA,G,published,2013Benavente
+Tupungatito,Tu4,SVZ,-33.39,-69.82,NA,-6.84,NA,NA,NA,NA,NA,NA,G,published,2013Benavente
+Tupungatito,Tu5,SVZ,-33.39,-69.82,NA,-7.11,5.26,NA,NA,NA,175000000000,NA,G,published,2013Benavente
+Tupungatito,Tu6,SVZ,-33.39,-69.82,NA,-6.12,5.23,NA,NA,NA,237000000000,NA,G,published,2013Benavente
+Tupungatito,Tu7,SVZ,-33.39,-69.82,NA,-6.74,6.09,NA,NA,NA,141000000000,NA,G,published,2013Benavente
+Tupungatito,Tu8,SVZ,-33.39,-69.82,NA,-0.3,5.06,NA,NA,NA,127000000000,NA,G,published,2013Benavente
+Tupungatito,Tu9,SVZ,-33.39,-69.82,NA,-5.31,5.16,NA,NA,NA,244000000000,NA,G,published,2013Benavente
+Abra de Nappa,AN,CVZ,-20.53,-68.57,0.27,NA,1.06,NA,1.06,NA,NA,NA,W,published,1994Hoke
+Alitar,Al2,CVZ,-23.14,-67.65,NA,-8.15,NA,NA,NA,NA,NA,NA,G,published,2011Tassi
+Alitar,Al5,CVZ,-23.14,-67.65,NA,-7.75,4.8,NA,NA,NA,40400000000,NA,G,published,2011Tassi
+Alitar,Al6,CVZ,-23.14,-67.65,NA,-8.01,NA,NA,NA,NA,NA,NA,G,published,2011Tassi
+Arituzar,a2,CVZ,-23,-66.5,1.9,-6.59,NA,NA,1.36,NA,720000000000,NA,G,published,2017PeraltaArnold
+Baños de Fleming,BF211031,CVZ,-24.59225,-64.90953,0.2,NA,0.82,NA,NA,0.04,NA,NA,G,published,2021Ago
+Banos Incachule,IN,CVZ,-24.27,-66.47,76.8,NA,1.74,NA,1.75,NA,NA,NA,G,published,93Hilton
+Banos Tocomar,TCM,CVZ,-24.2,-66.57,2.7,NA,2.57,NA,2.78,NA,NA,NA,G,published,93Hilton
+Banos Toro,BT,CVZ,-29.75,-69.97,3.8,NA,1.41,NA,1.45,NA,NA,NA,W,published,93Hilton
+Banos Turi,BTU,CVZ,-22.23,-68.3,1.1,NA,1.63,NA,1.87,NA,NA,NA,W,published,93Hilton
+Banos Tuzgle,TZ,CVZ,-24.03,-66.52,122,NA,5.18,NA,5.19,NA,NA,NA,G,published,93Hilton
+Caico,CAI,CVZ,-19.13,-69.08,0.85,NA,3.63,NA,5.19,NA,NA,NA,W,published,1994Hoke
+Caimancito,CA211030-1,CVZ,-23.74572,-64.51825,1.4,NA,0.59,NA,0.5,0.01,NA,NA,G,published,2021Ago
+Caimancito,CA211030-2,CVZ,-23.74429,-64.51986,n.d.,NA,0.48,NA,NA,n.d.,NA,NA,G,published,2021Ago
+Canto,CAN,CVZ,-19.9,-68.62,8.89,NA,2.45,NA,2.5,NA,NA,NA,G,published,1994Hoke
+Cerro Blanco,EM1,CVZ,-26.84,-67.77,NA,-9.12,NA,NA,NA,NA,NA,NA,W,published,2019Chiodi
+Cerro Blanco,LH1,CVZ,-26.84,-67.77,NA,-7.48,NA,NA,NA,NA,NA,NA,G,published,2019Chiodi
+Cerro Blanco,LH2,CVZ,-26.84,-67.77,NA,-7.77,NA,NA,1.11,NA,63100000000,NA,G,published,2019Chiodi
+Cerro Blanco,LH3,CVZ,-26.84,-67.77,NA,-9.56,NA,NA,NA,NA,NA,NA,G,published,2019Chiodi
+Churiguyaya,CHU,CVZ,-18.35,-69.02,NA,NA,0.92,NA,0.92,NA,NA,NA,W,published,1994Hoke
+Colpitas,Co1,CVZ,-17.95,-69.43,3,NA,NA,NA,2.04,NA,NA,NA,G,published,2020bInostroza
+Colpitas,Co12,CVZ,-17.95,-69.43,NA,-5.63,NA,NA,NA,NA,NA,NA,G,published,2020bInostroza
+Colpitas,Co5,CVZ,-17.95,-69.43,NA,-7.4,NA,NA,NA,NA,NA,NA,G,published,2020bInostroza
+Colpitas,Co6,CVZ,-17.95,-69.43,7.11,-7.29,NA,NA,1.29,NA,NA,NA,G,published,2020bInostroza
+Colpitas,Co7,CVZ,-17.95,-69.43,6.95,-7.66,NA,NA,1.41,NA,NA,NA,G,published,2020bInostroza
+Colpitas,Co9,CVZ,-17.95,-69.43,NA,-7.45,NA,NA,NA,NA,NA,NA,G,published,2020bInostroza
+Coranzuli,c2,CVZ,-23.03,-66.4,2.5,-13.6,NA,NA,0.27,NA,2900000000000,NA,G,published,2017PeraltaArnold
+El Ceibal,EC-211106,CVZ,-26.14969,-64.955,1.2,NA,0.71,NA,0.63,0.01,NA,NA,G,published,2021Ago
+El Saladillo,ESA,CVZ,-24.75,-65.1,0.9,NA,0.27,NA,0.27,NA,NA,NA,W,published,93Hilton
+El Sauce,ES,CVZ,-24.58,-66.33,173.3,NA,0.38,NA,0.38,NA,NA,NA,W,published,93Hilton
+El Tatio,TA,CVZ,-22.32,-68,12.01,NA,1.71,NA,1.73,NA,NA,NA,W,published,1994Hoke
+ElTatio,ET03,CVZ,-22.33,-68.01,88.4,-9,2.79,NA,NA,NA,164000000000,NA,G,published,2010Tassi
+ElTatio,ETO 1,CVZ,-22.33,-68.01,39.2,-7.9,2.94,NA,NA,NA,343000000000,NA,G,published,2010Tassi
+Empexa,EMP,CVZ,-20.53,-68.57,0.39,NA,1.68,NA,1.68,NA,NA,NA,W,published,1994Hoke
+Enqueica,ENQ,CVZ,-19.23,-68.78,5.39,NA,2.75,NA,2.86,NA,NA,NA,W,published,1994Hoke
+Fiambalá,FB210806,CVZ,-27.7425,-67.54878,215.3,NA,0.24,NA,0.24,0,NA,NA,G,published,2021Ago
+Geyser del Tatio,GTA,CVZ,-22.33,-68.02,1.3,NA,2.16,NA,2.53,NA,NA,NA,G,published,93Hilton
+Guallatiri,CH-1.1,CVZ,-18.34,-69.05,58.2,-4.1,0.96,NA,NA,NA,NA,NA,G,published,2020Inostroza
+Guallatiri,CH-2.1,CVZ,-18.34,-69.05,NA,-9.6,NA,NA,NA,NA,NA,NA,G,published,2020Inostroza
+Guallatiri,GUA-04,CVZ,-18.42,-69.09,1.6,NA,1.99,NA,2.23,NA,NA,NA,G,published,2020Inostroza
+Guallatiri,GUA-06 177,CVZ,-18.42,-69.09,4.4,NA,2.96,NA,3.11,NA,NA,NA,G,published,2020Inostroza
+Guallatiri,GUA-10 257,CVZ,-18.42,-69.09,5.2,NA,3.06,NA,3.2,NA,NA,NA,G,published,2020Inostroza
+Guallatiri,GUA-11,CVZ,-18.42,-69.09,NA,-7.3,NA,NA,NA,NA,NA,NA,G,published,2020Inostroza
+Guallatiri,GUA-12 231,CVZ,-18.42,-69.09,NA,-7.1,NA,NA,NA,NA,NA,NA,G,published,2020Inostroza
+Guallatiri,GUA-13 251,CVZ,-18.42,-69.09,3.5,-7.5,2.05,NA,2.18,NA,53600000000,NA,G,published,2020Inostroza
+Guallatiri,GUA-14 215,CVZ,-18.42,-69.09,1.3,-7.3,1.87,NA,2.14,NA,48300000000,NA,G,published,2020Inostroza
+Guallatiri,GUA-16 208,CVZ,-18.42,-69.09,9.2,-7,2.09,NA,2.17,NA,53600000000,NA,G,published,2020Inostroza
+Guallatiri,GUA-18 180,CVZ,-18.42,-69.09,NA,-8.6,NA,NA,NA,NA,NA,NA,G,published,2020Inostroza
+Guallatiri,GUA-19 189,CVZ,-18.42,-69.09,NA,-7.6,NA,NA,NA,NA,NA,NA,G,published,2020Inostroza
+Guallatiri,GUA-20,CVZ,-18.42,-69.09,1.1,-7.7,1.53,NA,1.66,NA,228000000000,NA,G,published,2020Inostroza
+Guallatiri,GUA-22,CVZ,-18.42,-69.09,NA,-7.4,NA,NA,NA,NA,NA,NA,G,published,2020Inostroza
+Guallatiri,GUA-24,CVZ,-18.42,-69.09,NA,-7.6,NA,NA,NA,NA,NA,NA,G,published,2020Inostroza
+Guallatiri,GUA-25,CVZ,-18.42,-69.09,1.5,NA,1.21,NA,1.26,NA,NA,NA,G,published,2020Inostroza
+Irrupuncu,IRR,CVZ,-20.72,-68.65,0.68,NA,2.35,NA,3.53,NA,NA,NA,W,published,1994Hoke
+Irruputuncu,Ir1,CVZ,-20.73,-68.55,NA,-7.23,7.27,NA,NA,NA,18800000000,NA,G,published,2011Tassi
+Irruputuncu,Ir8,CVZ,-20.73,-68.55,NA,-6.53,NA,NA,NA,NA,NA,NA,G,published,2011Tassi
+Jujuy Province,AC1,CVZ,-24.55,-64.94,NA,-13.6,NA,NA,NA,NA,NA,NA,W,published,2020PeraltaArnold
+Jujuy Province,CA1,CVZ,-23.74,-64.52,NA,-16.4,NA,NA,NA,NA,NA,NA,W,published,2020PeraltaArnold
+Jujuy Province,CA2,CVZ,-23.74,-64.52,NA,-17.6,NA,NA,NA,NA,NA,NA,W,published,2020PeraltaArnold
+Jujuy Province,CA3,CVZ,-23.74,-64.52,NA,-17.1,NA,NA,NA,NA,NA,NA,W,published,2020PeraltaArnold
+Jujuy Province,EJ,CVZ,-23.66,-66.47,NA,-18.7,NA,NA,NA,NA,NA,NA,W,published,2020PeraltaArnold
+Jujuy Province,EP1,CVZ,-24.08,-65.54,NA,-13.1,NA,NA,NA,NA,NA,NA,W,published,2020PeraltaArnold
+Jujuy Province,EP2,CVZ,-24.08,-65.54,NA,-11.9,NA,NA,0.09,NA,2300000000000,NA,W,published,2020PeraltaArnold
+Jujuy Province,EP3,CVZ,-24.08,-65.54,NA,-13.6,NA,NA,NA,NA,NA,NA,W,published,2020PeraltaArnold
+Jujuy Province,LQ1,CVZ,-23.89,-64.47,NA,-10.1,NA,NA,0.21,NA,712000000000,NA,G,published,2020PeraltaArnold
+Jujuy Province,LQ2,CVZ,-23.89,-64.47,NA,-11,NA,NA,0.17,NA,1090000000000,NA,G,published,2020PeraltaArnold
+Jujuy Province,LQ3,CVZ,-23.89,-64.47,NA,-10.4,NA,NA,0.15,NA,1430000000000,NA,G,published,2020PeraltaArnold
+Jujuy Province,RE1,CVZ,-20.17,-65.49,NA,-12.5,NA,NA,NA,NA,NA,NA,W,published,2020PeraltaArnold
+Jujuy Province,RE2,CVZ,-20.17,-65.49,NA,-12.9,NA,NA,NA,NA,NA,NA,W,published,2020PeraltaArnold
+Jujuy Province,RE3,CVZ,-20.17,-65.49,NA,-13.1,NA,NA,NA,NA,NA,NA,W,published,2020PeraltaArnold
+Jujuy Province,SA,CVZ,-23.86,-64.43,NA,-10,NA,NA,0.11,NA,1570000000000,NA,W,published,2020PeraltaArnold
+Jujuy Province,SA,CVZ,-23.86,-64.43,NA,-11.5,NA,NA,NA,NA,NA,NA,W,published,2020PeraltaArnold
+Laguna Socompa,LS,CVZ,-24.55,-68.27,2.5,NA,1.46,NA,1.52,NA,NA,NA,W,published,93Hilton
+Lascar,Las11,CVZ,-23.36,-67.73,NA,-1.74,7.29,NA,NA,NA,16600000000,NA,G,published,2009Tassi
+Lascar,Las14,CVZ,-23.36,-67.73,NA,-2.33,NA,NA,NA,NA,NA,NA,G,published,2009Tassi
+Lascar,Las3,CVZ,-23.36,-67.73,NA,NA,7.08,NA,NA,NA,NA,NA,G,published,2009Tassi
+Lascar,Las6,CVZ,-23.36,-67.73,NA,NA,6.41,NA,NA,NA,NA,NA,G,published,2009Tassi
+Lascar,Las7,CVZ,-23.36,-67.73,NA,-3.34,NA,NA,NA,NA,NA,NA,G,published,2009Tassi
+Lascar,Las9,CVZ,-23.36,-67.73,NA,-2.71,NA,NA,NA,NA,NA,NA,G,published,2009Tassi
+Lastarria,Lastarria,CVZ,-25.15,-68.52,199.1,NA,5.12,NA,5.13,NA,NA,NA,G,published,2018Lopez
+Lastarria,Lastarria,CVZ,-25.15,-68.52,159.9,NA,5.13,NA,5.14,NA,NA,NA,G,published,2018Lopez
+Lastarria,Lastarria CCVG2,CVZ,-25.15,-68.52,157.4,NA,5.27,NA,5.28,NA,NA,NA,G,published,2020Robidoux
+Lastarria,Lastarria CCVG3,CVZ,-25.15,-68.52,176.8,NA,5.34,NA,5.35,NA,NA,NA,G,published,2020Robidoux
+Lastarria,LSTG-1,CVZ,-25.15,-68.52,56,NA,5.15,NA,NA,NA,71000000000,NA,G,published,2012Aguilera
+Lastarria,LSTG-12,CVZ,-25.15,-68.52,85,-2.8,5.44,NA,NA,NA,60000000000,NA,G,published,2012Aguilera
+Lastarria,LSTG-14,CVZ,-25.15,-68.52,NA,-1.3,NA,NA,NA,NA,NA,NA,G,published,2012Aguilera
+Lastarria,LSTG-15,CVZ,-25.15,-68.52,NA,NA,NA,NA,NA,NA,NA,NA,G,published,2012Aguilera
+Lastarria,LSTG-16,CVZ,-25.15,-68.52,255,-2.2,5.75,NA,NA,NA,33000000000,NA,G,published,2012Aguilera
+Lastarria,LSTG-17,CVZ,-25.15,-68.52,NA,NA,NA,NA,NA,NA,NA,NA,G,published,2012Aguilera
+Lastarria,LSTG-18,CVZ,-25.15,-68.52,648,-1.8,6.17,NA,NA,NA,46000000000,NA,G,published,2012Aguilera
+Lastarria,LSTG-19,CVZ,-25.15,-68.52,534,-1.1,5.11,NA,NA,NA,18000000000,NA,G,published,2012Aguilera
+Lastarria,LSTG-20,CVZ,-25.15,-68.52,NA,NA,NA,NA,NA,NA,NA,NA,G,published,2012Aguilera
+Lastarria,LSTG-21,CVZ,-25.15,-68.52,551,-1.6,4.93,NA,NA,NA,20000000000,NA,G,published,2012Aguilera
+Lastarria,LSTG-22,CVZ,-25.15,-68.52,NA,-2.8,NA,NA,NA,NA,NA,NA,G,published,2012Aguilera
+Lastarria,LSTG-23,CVZ,-25.15,-68.52,NA,-0.4,NA,NA,NA,NA,NA,NA,G,published,2012Aguilera
+Lastarria,LSTG-26,CVZ,-25.15,-68.52,NA,NA,NA,NA,NA,NA,NA,NA,G,published,2012Aguilera
+Lastarria,LSTG-27,CVZ,-25.15,-68.52,311,-2.1,6.23,NA,NA,NA,59000000000,NA,G,published,2012Aguilera
+Lastarria,LSTG-28,CVZ,-25.15,-68.52,76,-2.6,5.83,NA,NA,NA,120000000000,NA,G,published,2012Aguilera
+Lastarria,LSTG-5,CVZ,-25.15,-68.52,NA,-4.1,NA,NA,NA,NA,NA,NA,G,published,2012Aguilera
+Lastarria,LSTG-6,CVZ,-25.15,-68.52,38,NA,4.55,NA,NA,NA,220000000000,NA,G,published,2012Aguilera
+Lastarria,LSTG-7,CVZ,-25.15,-68.52,NA,NA,NA,NA,NA,NA,NA,NA,G,published,2012Aguilera
+Lastarria,LSTG-8,CVZ,-25.15,-68.52,NA,-2.7,NA,NA,NA,NA,NA,NA,G,published,2012Aguilera
+Lirlma,LIR,CVZ,-19.85,-68.9,6.72,NA,0.36,NA,0.33,NA,NA,NA,W,published,1994Hoke
+Los Banos,LB,CVZ,-25.85,-64.93,0.5,NA,0.8,NA,0.52,NA,NA,NA,W,published,93Hilton
+Mamina,MAM,CVZ,-20.47,-69.33,58.9,NA,0.08,NA,0.07,NA,NA,NA,W,published,93Hilton
+Mina Conception,MC,CVZ,-20.58,-68.35,2.07,NA,3.01,NA,3.37,NA,NA,NA,G,published,1994Hoke
+Mina Pirquitas,mp2,CVZ,-22.7,-66.5,2.7,-7.55,NA,NA,1.39,NA,250000000000,NA,G,published,2017PeraltaArnold
+Olca,Ol1,CVZ,-20.94,-68.48,NA,-8.54,6.11,NA,NA,NA,17200000000,NA,G,published,2011Tassi
+Olca,Ol2,CVZ,-20.94,-68.48,NA,-8.04,NA,NA,NA,NA,NA,NA,G,published,2011Tassi
+Pairique,p1,CVZ,-23.03,-66.82,3.1,-10.8,NA,NA,1.16,NA,430000000000,NA,G,published,2017PeraltaArnold
+Pampa Apacheta,PA01,CVZ,-21.83,-68.16,685.2,-4.8,1.81,NA,NA,NA,63000000000,NA,G,published,2010Tassi
+Pampa Lirima,PL06,CVZ,-19.84,-68.83,274.1,-15,1.09,NA,NA,NA,10000000000,NA,G,published,2010Tassi
+Pizarro,PZ211029,CVZ,-24.23715,-64.15768,25.4,NA,0.51,NA,0.51,0.01,NA,NA,G,published,2021Ago
+Pozo,PZ,CVZ,-23.87,-64.45,2.7,NA,0.48,NA,0.41,NA,NA,NA,W,published,93Hilton
+Puchuldiza-Tuja,PT02,CVZ,-19.43,-68.91,12.7,-6.4,2.67,NA,NA,NA,66000000000,NA,G,published,2010Tassi
+Puchuldiza-Tuja,PT04,CVZ,-19.43,-68.91,4.7,-7.9,2.77,NA,NA,NA,130000000000,NA,G,published,2010Tassi
+Puchuldiza-Tuja,PT11,CVZ,-19.43,-68.91,13.8,-3.7,3.07,NA,NA,NA,304000000000,NA,G,published,2010Tassi
+Puritana,PU,CVZ,-22.7,-68.57,0.81,NA,1.02,NA,1.03,NA,NA,NA,W,published,1994Hoke
+Putana,Pu1,CVZ,-22.56,-67.85,NA,NA,6.15,NA,NA,NA,NA,NA,G,published,2011Tassi
+Putana,Pu3,CVZ,-22.56,-67.85,NA,-6.74,NA,NA,NA,NA,NA,NA,G,published,2011Tassi
+Putana,Pu4,CVZ,-22.56,-67.85,NA,-7.11,7.14,NA,NA,NA,17400000000,NA,G,published,2011Tassi
+Queñual,q4,cvz,-22.4,-66.7,2.1,-8.47,NA,NA,1.21,NA,720000000000,NA,G,published,2017PeraltaArnold
+Ratios Pompeja,RPM1,CVZ,-24.25,-66.37,13,NA,2.49,NA,2.53,NA,NA,NA,G,published,93Hilton
+Ratios Pompeja,RPM2,CVZ,-24.25,-66.37,139.8,NA,2.55,NA,2.56,NA,NA,NA,G,published,93Hilton
+Rio Junthuma,RJ,CVZ,-18.1,-69.03,0.07,NA,1.82,NA,1.82,NA,NA,NA,G,published,1994Hoke
+Rosario Coyaguayma,rc1,cvz,-22.98,-6.59,3.9,-11.2,NA,NA,1.26,NA,340000000000,NA,G,published,2017PeraltaArnold
+Rosario de la Frontera,RF01,CVZ,-25.84,-64.93,NA,-6.56,NA,NA,NA,NA,NA,NA,W,published,2015Chiodi
+Rosario de la Frontera,RF02,CVZ,-25.84,-64.93,NA,-4.11,1.15,NA,NA,NA,136000000000,NA,G,published,2015Chiodi
+Rosario de la Frontera,RF03,CVZ,-25.84,-64.93,NA,-7.13,NA,NA,NA,NA,NA,NA,W,published,2015Chiodi
+Rosario de la Frontera,RF04,CVZ,-25.84,-64.93,NA,-5.66,NA,NA,NA,NA,NA,NA,W,published,2015Chiodi
+Rosario de la Frontera,RF05,CVZ,-25.84,-64.93,NA,-5.16,NA,NA,NA,NA,NA,NA,W,published,2015Chiodi
+Rosario de la Frontera,RF06,CVZ,-25.84,-64.93,NA,-4.15,NA,NA,NA,NA,NA,NA,W,published,2015Chiodi
+Rosario de la Frontera,RF08,CVZ,-25.84,-64.93,NA,-11.49,NA,NA,NA,NA,NA,NA,W,published,2015Chiodi
+Rosario de la Frontera,RF09,CVZ,-25.84,-64.93,NA,-4.11,NA,NA,NA,NA,NA,NA,W,published,2015Chiodi
+Rosario de la Frontera,RF10,CVZ,-25.84,-64.93,NA,-3.66,0.98,NA,NA,NA,168000000000,NA,W,published,2015Chiodi
+Rosario de la Frontera,RF11,CVZ,-25.84,-64.93,NA,-4.44,NA,NA,NA,NA,NA,NA,W,published,2015Chiodi
+Rosario de la Frontera,RF13,CVZ,-25.84,-64.93,NA,-3.77,NA,NA,NA,NA,NA,NA,W,published,2015Chiodi
+Sajama,SAJ,CVZ,-18.07,-68.97,NA,NA,1.42,NA,1.42,NA,NA,NA,W,published,1994Hoke
+Sala' Tuyajto,STU,CVZ,-23.93,-67.58,3.8,NA,1.77,NA,1.84,NA,NA,NA,W,published,93Hilton
+Salar Aguas Cal II,SACII,CVZ,-23.93,-67.65,1.3,NA,1.78,NA,2.04,NA,NA,NA,W,published,93Hilton
+Salar Aguas Cal. I,SACI,CVZ,-23.53,-67.65,2.7,NA,1.3,NA,1.34,NA,NA,NA,W,published,93Hilton
+Surire,S01,CVZ,-18.83,-69.06,5.5,-4.7,2.73,NA,NA,NA,399000000000,NA,G,published,2010Tassi
+Surire,S05,CVZ,-18.83,-69.06,1.8,-4.5,2.39,NA,NA,NA,605000000000,NA,G,published,2010Tassi
+Surire-2,SR2,CVZ,-18.92,-68.65,22.29,NA,4.73,NA,4.78,NA,NA,NA,G,published,1994Hoke
+Surire-4,SR4,CVZ,-18.92,-68.65,34.39,NA,5.03,NA,5.07,NA,NA,NA,G,published,1994Hoke
+Tacora,TAC1,CVZ,-17.7,-69.79,NA,NA,4.32,NA,NA,NA,NA,NA,G,published,2008Aguilera
+Tacora,TAC10,CVZ,-17.7,-69.79,NA,-5.29,5.41,NA,NA,NA,3230000000,NA,G,published,2011Capaccioni
+Tacora,TAC6,CVZ,-17.7,-69.79,NA,-9.59,NA,NA,NA,NA,NA,NA,G,published,2008Aguilera
+Tacora,TAC8,CVZ,-17.7,-69.79,NA,-11.97,NA,NA,NA,NA,NA,NA,G,published,2008Aguilera
+Tacora,TAC9,CVZ,-17.7,-69.79,NA,-4.84,5.87,NA,NA,NA,3300000000,NA,G,published,2011Capaccioni
+Tocomar,TCM1,CVZ,-24.18,-66.56,NA,-10.62,NA,NA,NA,NA,NA,NA,G,published,2022Filipovich
+Tocomar,TCM2,CVZ,-24.18,-66.56,NA,-11.53,NA,NA,1.06,NA,158000000000,NA,G,published,2022Filipovich
+Tocomar,TCM3,CVZ,-24.18,-66.56,NA,-10.49,NA,NA,NA,NA,NA,NA,G,published,2022Filipovich
+Tocomar,TCM4,CVZ,-24.18,-66.56,NA,-10.65,NA,NA,1.28,NA,89500000000,NA,G,published,2022Filipovich
+Tocomar,TCM5,CVZ,-24.18,-66.56,NA,-11.91,NA,NA,NA,NA,NA,NA,G,published,2022Filipovich
+Tocomar,TCM6,CVZ,-24.18,-66.56,NA,-10.51,NA,NA,NA,NA,NA,NA,G,published,2022Filipovich
+Todoss Santos,TSA,CVZ,-19.05,-68.85,0.11,NA,3.4,NA,3.4,NA,NA,NA,W,published,1994Hoke
+Torta de Tocorpuri,TT06,CVZ,-22.38,-67.5,305,-11.2,1.31,NA,NA,NA,8000000000,NA,G,published,2010Tassi
+Vilama,v1,CVZ,-22.53,-66.98,2.1,-7.15,NA,NA,0.56,NA,1100000000000,NA,G,published,2017PeraltaArnold
+Vocan Irruptupuncu,VIR,CVZ,-20.73,-68.53,NA,NA,4.96,NA,4.96,NA,NA,NA,G,published,1994Hoke
+Volcan Isluga,VI,CVZ,-19.17,-68.83,106,NA,5.51,NA,5.52,NA,NA,NA,G,published,1994Hoke
+Volcan Olca,VO,CVZ,-20.95,-68.47,13.52,NA,1.75,NA,1.77,NA,NA,NA,G,published,1994Hoke
+Volcan Ollaque,VOL,CVZ,-21.3,-68.18,4.9,NA,1.8,NA,1.86,NA,NA,NA,G,published,1994Hoke
+NA,Cba,CVZ,-26.76,-67.74,7.8,-5.2,NA,NA,2.16,NA,226000000000,NA,W,published,2019Chiodi
+NA,EM1,CVZ,-26.85,-67.71,8.7,-9.1,NA,NA,NA,NA,NA,NA,W,published,2019Chiodi
+NA,LH1,CVZ,-26.88,-67.77,6.1,-7.5,NA,NA,NA,NA,NA,NA,W,published,2019Chiodi
+NA,LH2,CVZ,-26.88,-67.77,6.1,-7.8,NA,NA,1.11,NA,63100000000,NA,W,published,2019Chiodi
+NA,LH3,CVZ,-26.88,-67.77,5.4,-9.6,NA,NA,NA,NA,NA,NA,W,published,2019Chiodi
