@@ -1,0 +1,418 @@
+sample_name,sampleID,region,origin,lat,long,r420,d13c,r_ra,rc_ra,co2_he3,phase
+Rio Junthuma,RJ,CVZ,published,-18.1,-69.03,NA,NA,1.82,1.82,NA,G
+Baños de Fleming,BF211031,CVZ,published,-24.59225,-64.90953,NA,NA,0.82,NA,NA,G
+Baños de Fleming,BF211031,CVZ,this_study,-24.59225,-64.90953,NA,NA,0.82,NA,NA,G
+Termas de Catillo,CH-CT200308,SVZ,this_study,-36.29,-71.65,0.3,NA,1.1,NA,NA,G
+Panamavida,CH-PM200308,SVZ,this_study,-35.76,-71.42,0.4,NA,1.12,1.43,NA,G
+Termas del Flaco,CH-TF-200303,SVZ,this_study,-34.96,-70.43,0.6,-11.15,1.13,1.27,39000000000,G
+Termas del Plomo,21a,SVZ,published,-33.62,-69.91,0.8,-7.76,1.05,1.07,151000000000,G
+Copahue,COP-CC2-Fl-15,SVZ,published,-37.84,-71.19,0.95,-6.92,3.65,4.57,7660000000,G
+Copahue,COP-AF-BG-15,SVZ,published,-37.84,-71.19,0.99,-6.18,3.76,4.66,NA,G
+Guallatiri,GUA-20,CVZ,published,-18.42,-69.09,1.1,-7.7,1.53,1.66,228000000000,G
+El Ceibal,EC-211106,CVZ,published,-26.14969,-64.955,1.2,NA,0.71,0.63,NA,G
+El Ceibal,EC-211106,CVZ,this_study,-26.14969,-64.955,1.2,NA,0.71,0.63,NA,G
+Guallatiri,GUA-14 215,CVZ,published,-18.42,-69.09,1.3,-7.3,1.87,2.14,48300000000,G
+Geyser del Tatio,NA,CVZ,published,-22.33,-68.02,1.3,NA,2.16,2.53,NA,G
+Domuyo,D1a,SVZ,published,-36.6,-70.45,1.3,-7.05,1.92,NA,366000000000,G
+Caimancito,CA211030-1,CVZ,published,-23.74572,-64.51825,1.4,NA,0.59,0.5,NA,G
+Caimancito,CA211030-1,CVZ,this_study,-23.74572,-64.51825,1.4,NA,0.59,0.5,NA,G
+Guallatiri,GUA-25,CVZ,published,-18.42,-69.09,1.5,NA,1.21,1.26,NA,G
+Termas del Campanario,49a,SVZ,published,-35.93,-70.59,1.5,-11.1,0.65,0.55,213000000000,G
+Domuyo,D1b,SVZ,published,-36.6,-70.45,1.5,NA,1.86,NA,NA,G
+Guallatiri,GUA-04,CVZ,published,-18.42,-69.09,1.6,NA,1.99,2.23,NA,G
+Pio Perez,AR-PP190301,CVZ,this_study,-25.41,-64.59,1.7,-1.2,0.36,0.21,37188347148.891,G
+Surire,S05,CVZ,published,-18.83,-69.06,1.8,-4.5,2.39,NA,605000000000,G
+Arituzar,a2,CVZ,published,-23,-66.5,1.9,-6.59,NA,1.36,720000000000,G
+Mina Conception,NA,CVZ,published,-20.58,-68.35,2.07,NA,3.01,3.37,NA,G
+Vilama,v1,CVZ,published,-22.53,-66.98,2.1,-7.15,NA,0.56,1100000000000,G
+Queñual,q4,CVZ,published,-22.4,-66.7,2.1,-8.47,NA,1.21,720000000000,G
+Domuyo,D1d,SVZ,published,-36.6,-70.45,2.3,-7.34,1.95,NA,49200000000,G
+Coranzuli,c2,CVZ,published,-23.03,-66.4,2.5,-13.6,NA,0.27,2900000000000,G
+Termas San Luis,TSL,SVZ,published,-39.35,-71.55,2.5,NA,3.42,3.78,NA,G
+Termas Tolhuaca,TT,SVZ,published,-38.23,-71.73,2.5,NA,4.55,5.07,NA,G
+Agua de la Vaca,VA,SVZ,published,-38.58,-71.63,2.5,-13.7,3.91,4.33,60000000,G
+Mina Pirquitas,mp2,CVZ,published,-22.7,-66.5,2.7,-7.55,NA,1.39,250000000000,G
+Banos Tocomar,NA,CVZ,published,-24.2,-66.57,2.7,NA,2.57,2.78,NA,G
+Termas Quimey-Có,QC,SVZ,published,-39.22,-71.7,2.7,-30.7,4.67,5.27,NA,G
+Colpitas,Co1,CVZ,published,-17.95,-69.43,3,NA,NA,2.04,NA,G
+Pairique,p1,CVZ,published,-23.03,-66.82,3.1,-10.8,NA,1.16,430000000000,G
+Nevado de Chillan Vn.,NC,SVZ,published,-36.91,-71.4,3.1,-9.3,3.4,3.68,17800000000,G
+Domuyo,D9b,SVZ,published,-36.6,-70.45,3.19,NA,4.29,NA,NA,G
+Copahue,COP-CC-Fl-14,SVZ,published,-37.84,-71.19,3.21,-9.82,4.78,5.19,97000000000,G
+Guallatiri,GUA-13 251,CVZ,published,-18.42,-69.09,3.5,-7.5,2.05,2.18,53600000000,G
+Rosario Coyaguayma,rc1,CVZ,published,-22.98,-6.59,3.9,-11.2,NA,1.26,340000000000,G
+Termas del Flaco,CH-TF-200303,SVZ,this_study,-34.96,-70.43,4,-11.15,1.44,1.48,2200000000,G
+Domuyo,D4a,SVZ,published,-36.6,-70.45,4.1,-9.58,4.98,NA,4880000000,G
+Termas de Rupanco,RU,SVZ,published,-40.86,-72.22,4.2,-14.7,6.52,6.97,10000000,G
+Termas de Palguin,PA,SVZ,published,-39.42,-71.79,4.2,-49.4,3.58,3.79,10000000,G
+Guallatiri,GUA-06 177,CVZ,published,-18.42,-69.09,4.4,NA,2.96,3.11,NA,G
+Chillán,F1,SVZ,published,-36.9,-71.41,4.5,-7.8,2.38,2.49,34700000000,G
+Termas Palguin I,Tpa,SVZ,published,-39.38,-71.78,4.6,NA,3.48,3.66,NA,G
+Puchuldiza-Tuja,PT04,CVZ,published,-19.43,-68.91,4.7,-7.9,2.77,NA,130000000000,G
+Volcan Ollaque,NA,CVZ,published,-21.3,-68.18,4.9,NA,1.8,1.86,NA,G
+Guallatiri,GUA-10 257,CVZ,published,-18.42,-69.09,5.2,NA,3.06,3.2,NA,G
+Termas de Balboa,BB,SVZ,published,-38.96,-71.71,5.2,-19.2,6.34,6.75,11700000000,G
+Surire,S01,CVZ,published,-18.83,-69.06,5.5,-4.7,2.73,NA,399000000000,G
+COP,COP2,SVZ,published,-37.83,-71.11,6.72,-7.5,NA,7.37,57000000000,G
+Colpitas,Co7,CVZ,published,-17.95,-69.43,6.95,-7.66,NA,1.41,NA,G
+Copahue,CB,SVZ,published,-37.84,-71.19,7.1,-7.51,6.79,7.06,NA,G
+Colpitas,Co6,CVZ,published,-17.95,-69.43,7.11,-7.29,NA,1.29,NA,G
+Termas Chillan,TC,SVZ,published,-36.87,-71.73,7.7,NA,3.52,3.63,NA,G
+Domuyo,D4b,SVZ,published,-36.6,-70.45,8.1,NA,4.55,NA,NA,G
+Bano Morales,CH-BM-200312,SVZ,this_study,-33.82,-70.06,8.1,-8.64,1.61,1.63,NA,G
+Monumento El Morado,22,SVZ,published,-33.82,-70.06,8.5,-9.76,0.49,0.47,222000000000,G
+Copahue,COP-CB-Fl-14,SVZ,published,-37.84,-71.19,8.51,-8.1,7.27,7.51,10800000000,G
+Canto,NA,CVZ,published,-19.9,-68.62,8.89,NA,2.45,2.5,NA,G
+Guallatiri,GUA-16 208,CVZ,published,-18.42,-69.09,9.2,-7,2.09,2.17,53600000000,G
+Termas del Plomo,CH-TP-200304,SVZ,this_study,-33.62,-69.91,9.2,NA,2.52,2.58,200000000,G
+Copahue,COP-LMM-BG-15,SVZ,published,-37.84,-71.19,12.32,-6.02,7.32,7.45,4670000000,G
+Puchuldiza-Tuja,PT02,CVZ,published,-19.43,-68.91,12.7,-6.4,2.67,NA,66000000000,G
+Ratios Pompeja,NA,CVZ,published,-24.25,-66.37,13,NA,2.49,2.53,NA,G
+Volcan Olca,NA,CVZ,published,-20.95,-68.47,13.52,NA,1.75,1.77,NA,G
+Puchuldiza-Tuja,PT11,CVZ,published,-19.43,-68.91,13.8,-3.7,3.07,NA,304000000000,G
+Termas de Aguas Calientes,AC,SVZ,published,-40.73,-72.31,14.2,-20.5,6.77,6.91,NA,G
+Copahue,COP-PM-BG-15,SVZ,published,-37.84,-71.19,14.59,-10.45,6.49,6.59,27900000000,G
+Pelehue,PL,SVZ,published,-38.12,-71.06,15.7,-7.4,7.53,7.67,1560000000,G
+Jaime Muro (Tolhuaca,JM,SVZ,published,-38.29,-71.67,16.1,-9.8,6.38,6.49,13000000000,G
+Copahue,COP-TC-BG-15,SVZ,published,-37.84,-71.19,16.92,-6.45,7.49,7.59,6200000000,G
+Baños Los Humos,30b,SVZ,published,-34.8,-70.46,17,-8.5,3.85,3.9,66000000000,G
+Termas del Plomo,CH-TP200304,SVZ,this_study,-33.62,-69.91,21.1,NA,2.32,2.34,120000000,G
+Termas del Avellano,AV,SVZ,published,-37.99,-71.53,21.3,-20.4,4.41,4.46,NA,G
+Surire-2,NA,CVZ,published,-18.92,-68.65,22.29,NA,4.73,4.78,NA,G
+Copahue Volcano,Anfiteatro,SVZ,published,-37.84,-71.19,23,-7.6,NA,4.63,7700000000,G
+Pizarro,PZ211029,CVZ,published,-24.23715,-64.15768,25.4,NA,0.51,0.51,NA,G
+Pizarro,PZ211029,CVZ,this_study,-24.23715,-64.15768,25.4,NA,0.51,0.51,NA,G
+Copahue,LMM,SVZ,published,-37.84,-71.19,27.17,-7.23,8.28,8.37,NA,G
+Ratios Morales,RM,SVZ,published,-33.8,-70.2,27.2,NA,2.16,2.17,NA,G
+Geométricas,BW,SVZ,published,-39.5,-71.87,30.5,-13.2,4.11,4.47,2200000000,G
+Rio Blanco,B2,SVZ,published,-39.11,-71.61,30.5,-11.9,4.25,4.63,1800000,G
+Copahue,COP-LV-BG-15,SVZ,published,-37.84,-71.19,32.43,-6.11,7.49,7.55,6730000000,G
+Surire-4,NA,CVZ,published,-18.92,-68.65,34.39,NA,5.03,5.07,NA,G
+Domuyo,D2c,SVZ,published,-36.6,-70.45,35,-8,4.89,NA,1360000000,G
+Glacial valley,Gen2,SVZ,published,-35.25,-70.51,35,-12.6,NA,3.21,64000000000,G
+Geométricas,B1,SVZ,published,-39.5,-71.87,35.5,-17.1,4.15,4.46,677000,G
+Los Azufres,Cur,SVZ,published,-35.25,-70.51,36,-12.6,NA,1.19,14000000000,G
+Lastarria,LSTG-6,CVZ,published,-25.15,-68.52,38,NA,4.55,NA,220000000000,G
+Baños Los Humos,30c,SVZ,published,-34.8,-70.46,38,-8.7,3.58,3.6,108000000000,G
+Copahue,AF,SVZ,published,-37.84,-71.19,38.7,-7.39,4.61,4.64,NA,G
+ElTatio,ETO 1,CVZ,published,-22.33,-68.01,39.2,-7.9,2.94,NA,343000000000,G
+San Pedro bano termale,CH-SP-200302-2,SVZ,this_study,-35.14,-70.48,40,-12.56,2.46,2.47,120000000,G
+Termas del Flaco,33,SVZ,published,-34.96,-70.43,47,-8.34,2.12,2.13,29000000000,G
+Ban˜ os del Toro (Sierra,BT,SVZ,published,-38.57,-71.62,51.3,-8.8,4.59,4.61,8730000000,G
+Copahue,COP-AF-Fl-14,SVZ,published,-37.84,-71.19,55.23,-7.9,5.27,5.29,17100000000,G
+Lastarria,LSTG-1,CVZ,published,-25.15,-68.52,56,NA,5.15,NA,71000000000,G
+Barro Colorado,39a,SVZ,published,-35.41,-70.48,56,-5.72,3.26,3.27,146000000000,G
+Guallatiri,CH-1.1,CVZ,published,-18.34,-69.05,58.2,-4.1,0.96,NA,NA,G
+Domuyo,D5a,SVZ,published,-36.6,-70.45,59,NA,6.82,NA,NA,G
+San Pedro bano termale,CH-SP200302-2,SVZ,this_study,-35.14,-70.48,59.5,-12.56,2.4,2.4,47000000,G
+Campanario,CH-CP-200307,SVZ,this_study,-35.93,-70.59,64.2,-8.72,5.01,5.03,10000000000,G
+Las Maquinas (Copahue,LM,SVZ,published,-37.83,-71.08,67.6,-8,7.48,7.52,8270000000,G
+Copahue Volcano,Las Máquinas,SVZ,published,-37.84,-71.19,68,-8,NA,7.52,8200000000,G
+Termas de Cauquenes,CH-CQ200301,SVZ,this_study,-34.25,-70.56,68.9,-15.9,1.67,1.68,NA,G
+La Plata,50,SVZ,published,-35.94,-70.58,70,-8.9,3.39,3.4,4700000000,G
+Copahue,COP-AF-Fl-15,SVZ,published,-37.84,-71.19,70.94,-6.52,5.37,5.39,2520000000,G
+Tocomar,AR-TM190224,CVZ,this_study,-24.19,-66.55,72.3,-11.7,2.47,2.48,168423471199.319,G
+Glacial valley,Gen2,SVZ,published,-35.25,-70.51,75,-12.6,NA,5.94,20000000000,G
+Copahue Volcano,Chancho Co,SVZ,published,-37.84,-71.19,75,-8.8,NA,5.35,9100000000,G
+Lastarria,LSTG-28,CVZ,published,-25.15,-68.52,76,-2.6,5.83,NA,120000000000,G
+Domuyo,D5d,SVZ,published,-36.6,-70.45,76,-6.95,6.91,NA,2130000000,G
+Banos Incachule,NA,CVZ,published,-24.27,-66.47,76.8,NA,1.74,1.75,NA,G
+Domuyo,D2b,SVZ,published,-36.6,-70.45,78.4,NA,5.63,NA,NA,G
+Copahue,COP-LMM-BG-14,SVZ,published,-37.84,-71.19,81.59,-7.38,7.57,7.59,5500000000,G
+Copahue,COP-LM-BG-15,SVZ,published,-37.84,-71.19,82.12,-6.52,7.47,7.49,10800000000,G
+Copahue Volcano,Chancho Co,SVZ,published,-37.84,-71.19,84,-8.3,NA,4.07,9000000000,G
+Lastarria,LSTG-12,CVZ,published,-25.15,-68.52,85,-2.8,5.44,NA,60000000000,G
+La Plata,51,SVZ,published,-35.94,-70.58,86,-8.1,3.79,3.8,4200000000,G
+ElTatio,ET03,CVZ,published,-22.33,-68.01,88.4,-9,2.79,NA,164000000000,G
+San Jose,52,SVZ,published,-33.78,-69.9,95,-9.03,2.9,2.91,22000000000,G
+Chillán,F2,SVZ,published,-36.9,-71.41,96.4,-6,2.55,2.6,40200000000,G
+Malacahuello,GW,SVZ,published,-38.49,-71.59,99.5,-16.8,2.71,2.77,2270000000,G
+Volcan Isluga,NA,CVZ,published,-19.17,-68.83,106,NA,5.51,5.52,NA,G
+Inca Chule,AR-IN190223,CVZ,this_study,-24.28,-66.47,106.7,-12,1.97,1.97,NA,G
+Los Azufres,Pel,SVZ,published,-35.29,-70.53,115,-12.1,NA,3.12,50000000000,G
+Copahue Volcano,Las Máquinas,SVZ,published,-37.84,-71.19,115,-6.9,NA,6.67,8500000000,G
+Banos Tuzgle,NA,CVZ,published,-24.03,-66.52,122,NA,5.18,5.19,NA,G
+Malacahuello,GW,SVZ,published,-38.49,-71.59,127.8,-14.9,2.74,2.79,1870000000,G
+Los Azufres,Pel,SVZ,published,-35.29,-70.53,131,-13.2,NA,3.69,75000000000,G
+Ratios Pompeja,NA,CVZ,published,-24.25,-66.37,139.8,NA,2.55,2.56,NA,G
+Copahue Volcano,Chancho Co,SVZ,published,-37.84,-71.19,144,-7.8,NA,4.21,12000000000,G
+Lastarria,Lastarria CCVG2,CVZ,published,-25.15,-68.52,157.4,NA,5.27,5.28,NA,G
+Lastarria,Lastarria,CVZ,published,-25.15,-68.52,159.9,NA,5.13,5.14,NA,G
+Rio Blanco,BW,SVZ,published,-39.11,-71.61,168.9,-7.3,4.45,4.51,3070000000,G
+Copahue,TC,SVZ,published,-37.84,-71.19,173.83,-7.56,7.35,7.36,NA,G
+Lastarria,Lastarria CCVG3,CVZ,published,-25.15,-68.52,176.8,NA,5.34,5.35,NA,G
+Copahue Volcano,Chancho Co,SVZ,published,-37.84,-71.19,186,-9.2,NA,5.22,6800000000,G
+Galan Fumerole,AR-GF190226-1,CVZ,this_study,-25.86,-66.99,197.9,NA,1.77,1.77,4178001856.99905,G
+Lastarria,Lastarria,CVZ,published,-25.15,-68.52,199.1,NA,5.12,5.13,NA,G
+Manzanar,G1,SVZ,published,-38.47,-71.71,205.9,-14.7,1.49,1.5,311000,G
+Fiambalá,FB210806,CVZ,published,-27.7425,-67.54878,215.3,NA,0.24,0.24,NA,G
+Fiambalá,FB210806,CVZ,this_study,-27.7425,-67.54878,215.3,NA,0.24,0.24,NA,G
+Copahue Volcano,Anfiteatro,SVZ,published,-37.84,-71.19,216,-8.5,NA,5.12,8400000000,G
+Copahue Volcano,Chancho Co,SVZ,published,-37.84,-71.19,217,-9.3,NA,5.12,7500000000,G
+Copahue Volcano,Anfiteatro,SVZ,published,-37.84,-71.19,217,-8.8,NA,5.16,7500000000,G
+Galan Fumerole,AR-GF190226-2,CVZ,this_study,-25.86,-66.99,217.7,-6.2,1.79,1.79,4129584125.19274,G
+Las Maquinas,LM,SVZ,published,-37.82,-71.1,232.2,-8.3,7.5,7.6,9000000000,G
+Copahue,COP-2-WG-15,SVZ,published,-37.84,-71.19,233.61,-6.96,7.5,7.51,4480000000,G
+Copahue Volcano,Anfiteatro,SVZ,published,-37.84,-71.19,254,-8.5,NA,5.09,6800000000,G
+Lastarria,LSTG-16,CVZ,published,-25.15,-68.52,255,-2.2,5.75,NA,33000000000,G
+Pampa Lirima,PL06,CVZ,published,-19.84,-68.83,274.1,-15,1.09,NA,10000000000,G
+Peteroa,Pet5,SVZ,published,-35.24,-70.57,289,-3.6,NA,7.11,67000000000,G
+Torta de Tocorpuri,TT06,CVZ,published,-22.38,-67.5,305,-11.2,1.31,NA,8000000000,G
+Peteroa,Pet1,SVZ,published,-35.24,-70.57,305,-11.2,NA,4.43,17000000000,G
+Lastarria,LSTG-27,CVZ,published,-25.15,-68.52,311,-2.1,6.23,NA,59000000000,G
+Copahue,COP-2,SVZ,published,-37.84,-71.19,323.8,-7.81,6.43,6.44,NA,G
+Copahue Volcano,Las Máquinas,SVZ,published,-37.84,-71.19,333,-7.1,NA,6.48,9600000000,G
+La Colcha,AR-LC190226,CVZ,this_study,-26.03,-66.99,333.3,-7.5,1.45,1.45,22239753128.9853,G
+Estero del Volcan,47a,SVZ,published,-35.5,-70.76,351,-8.12,3.4,3.4,36000000000,G
+Copahue Volcano,Las Maquinitas,SVZ,published,-37.84,-71.19,354,-7.8,NA,5.89,8000000000,G
+Peteroa,Pet3,SVZ,published,-35.24,-70.57,387,-11.2,NA,4.46,18000000000,G
+Bano 7,BN7,SVZ,published,-37.82,-71.1,391.2,-8.3,7.6,7.6,9800000000,G
+Peteroa,Pet8,SVZ,published,-35.24,-70.57,398,-11.4,NA,4.44,14000000000,G
+Copahue Volcano,Las Maquinitas,SVZ,published,-37.84,-71.19,420,-8.2,NA,7.67,8100000000,G
+Peteroa,Pet7,SVZ,published,-35.24,-70.57,454,NA,NA,5.62,36000000000,G
+Peteroa,Pet1,SVZ,published,-35.24,-70.57,456,-7.5,NA,6.68,57000000000,G
+Copahue Volcano,cristina 1,SVZ,published,-37.84,-71.19,458,-9.6,NA,7.75,3000000000,G
+Copahue,LM,SVZ,published,-37.84,-71.19,471.46,-7.71,7.17,7.17,NA,G
+Copahue Volcano,Las Máquinas,SVZ,published,-37.84,-71.19,485,-7.9,NA,6.43,8900000000,G
+Copahue Volcano,Piedra Copahue,SVZ,published,-37.84,-71.19,505,-6.7,NA,6.79,8500000000,G
+Peteroa,Pet7,SVZ,published,-35.24,-70.57,511,-6.2,NA,6.51,62000000000,G
+Peteroa,Pet7,SVZ,published,-35.24,-70.57,511,-5.8,NA,6.59,49000000000,G
+Copahue Volcano,Las Maquinitas,SVZ,published,-37.84,-71.19,512,-8.1,NA,7.68,5700000000,G
+Lastarria,LSTG-19,CVZ,published,-25.15,-68.52,534,-1.1,5.11,NA,18000000000,G
+La Colcha,AR-LC190226,CVZ,this_study,-26.03,-66.99,545.6,-7.5,2.58,2.58,685621182.931687,G
+Lastarria,LSTG-21,CVZ,published,-25.15,-68.52,551,-1.6,4.93,NA,20000000000,G
+Copahue,COP-LM-FL-15,SVZ,published,-37.84,-71.19,562.38,-6.95,7.09,7.1,6500000000,G
+Copahue Volcano,Las Máquinas,SVZ,published,-37.84,-71.19,571,-8.6,NA,7.6,7500000000,G
+Copahue Volcano,Las Maquinitas,SVZ,published,-37.84,-71.19,644,-8.3,NA,7.71,6700000000,G
+Lastarria,LSTG-18,CVZ,published,-25.15,-68.52,648,-1.8,6.17,NA,46000000000,G
+Copahue,COP-CB-Fl-15,SVZ,published,-37.84,-71.19,652.17,NA,7.86,7.86,6900000000,G
+Peteroa,Pet7,SVZ,published,-35.24,-70.57,662,-11.6,NA,4.46,17000000000,G
+Pampa Apacheta,PA01,CVZ,published,-21.83,-68.16,685.2,-4.8,1.81,NA,63000000000,G
+Peteroa,Pet3,SVZ,published,-35.24,-70.57,711,-7.6,NA,6.87,85000000000,G
+Copahue Volcano,Las Máquinas,SVZ,published,-37.84,-71.19,729,-8.3,NA,7.5,NA,G
+Copahue Volcano,Piedra Copahue,SVZ,published,-37.84,-71.19,785,-7.5,NA,7.74,8100000000,G
+Copahue Volcano,Las Máquinas,SVZ,published,-37.84,-71.19,845,-9.4,NA,7.71,6200000000,G
+Copahue Volcano,Piedra Copahue,SVZ,published,-37.84,-71.19,913,-8.7,NA,7.94,5200000000,G
+Chancho Co,CC2,SVZ,published,-37.82,-71.16,914,NA,NA,5.02,7900000000,G
+Copahue Volcano,Chancho Co,SVZ,published,-37.84,-71.19,914,-8.3,NA,5.02,3800000000,G
+Copahue Volcano,Las Máquinas,SVZ,published,-37.84,-71.19,1025,-9.6,NA,7.65,5900000000,G
+Copahue Volcano,Piedra Copahue,SVZ,published,-37.84,-71.19,1045,-8.2,NA,7.96,4000000000,G
+Copahue Volcano,Piedra Copahue,SVZ,published,-37.84,-71.19,1048,-7,NA,7.01,8800000000,G
+Copahue Volcano,Chancho Co,SVZ,published,-37.84,-71.19,1058,-8.1,NA,4.04,8500000000,G
+Copahue Volcano,Las Máquinas,SVZ,published,-37.84,-71.19,1215,-7.3,NA,7.04,6200000000,G
+Copahue Volcano,Piedra Copahue,SVZ,published,-37.84,-71.19,1228,-8.3,NA,7.6,NA,G
+Copahue Volcano,Las Maquinitas,SVZ,published,-37.84,-71.19,1330,-7.1,NA,6.97,5200000000,G
+Las Maquinas,LMM1,SVZ,published,-37.83,-71.08,1679,-7.7,NA,7.94,3000000000,G
+Copahue Volcano,Las Maquinitas,SVZ,published,-37.84,-71.19,1679,-7.7,NA,7.94,3100000000,G
+Las Maquinas,LM1,SVZ,published,-37.83,-71.08,1898,-8.2,NA,7.72,3200000000,G
+Copahue Volcano,Las Máquinas,SVZ,published,-37.84,-71.19,1898,-8.2,NA,7.72,3300000000,G
+Piedra Copahue,PC2,SVZ,published,-37.83,-71.11,1957,-7.7,NA,7.36,1500000000,G
+Copahue Volcano,Piedra Copahue,SVZ,published,-37.84,-71.19,1957,-7.7,NA,7.36,1500000000,G
+Copahue Volcano,Anfiteatro,SVZ,published,-37.84,-71.19,1996,-7,NA,4.93,4300000000,G
+Anfiteatro,AF1,SVZ,published,-37.82,-71.11,2445,-6.8,NA,5.01,1400000000,G
+Copahue Volcano,Anfiteatro,SVZ,published,-37.84,-71.19,2445,-6.8,NA,5.01,1400000000,G
+Caimancito,CA211030-2,CVZ,published,-23.74429,-64.51986,NA,NA,0.48,NA,NA,G
+Caimancito,CA211030-2,CVZ,this_study,-23.74429,-64.51986,NA,NA,0.48,NA,NA,G
+Vocan Irruptupuncu,NA,CVZ,published,-20.73,-68.53,NA,NA,4.96,4.96,NA,G
+Tacora,TAC1,CVZ,published,-17.7,-69.79,NA,NA,4.32,NA,NA,G
+Tacora,TAC6,CVZ,published,-17.7,-69.79,NA,-9.59,NA,NA,NA,G
+Tacora,TAC8,CVZ,published,-17.7,-69.79,NA,-11.97,NA,NA,NA,G
+Lascar,Las11,CVZ,published,-23.36,-67.73,NA,-1.74,7.29,NA,16600000000,G
+Lascar,Las3,CVZ,published,-23.36,-67.73,NA,NA,7.08,NA,NA,G
+Lascar,Las6,CVZ,published,-23.36,-67.73,NA,NA,6.41,NA,NA,G
+Lascar,Las7,CVZ,published,-23.36,-67.73,NA,-3.34,NA,NA,NA,G
+Lascar,Las9,CVZ,published,-23.36,-67.73,NA,-2.71,NA,NA,NA,G
+Lascar,Las14,CVZ,published,-23.36,-67.73,NA,-2.33,NA,NA,NA,G
+Tacora,TAC10,CVZ,published,-17.7,-69.79,NA,-5.29,5.41,NA,3230000000,G
+Tacora,TAC9,CVZ,published,-17.7,-69.79,NA,-4.84,5.87,NA,3300000000,G
+Alitar,Al5,CVZ,published,-23.14,-67.65,NA,-7.75,4.8,NA,40400000000,G
+Alitar,Al2,CVZ,published,-23.14,-67.65,NA,-8.15,NA,NA,NA,G
+Alitar,Al6,CVZ,published,-23.14,-67.65,NA,-8.01,NA,NA,NA,G
+Putana,Pu4,CVZ,published,-22.56,-67.85,NA,-7.11,7.14,NA,17400000000,G
+Putana,Pu1,CVZ,published,-22.56,-67.85,NA,NA,6.15,NA,NA,G
+Putana,Pu3,CVZ,published,-22.56,-67.85,NA,-6.74,NA,NA,NA,G
+Olca,Ol1,CVZ,published,-20.94,-68.48,NA,-8.54,6.11,NA,17200000000,G
+Olca,Ol2,CVZ,published,-20.94,-68.48,NA,-8.04,NA,NA,NA,G
+Irruputuncu,Ir1,CVZ,published,-20.73,-68.55,NA,-7.23,7.27,NA,18800000000,G
+Irruputuncu,Ir8,CVZ,published,-20.73,-68.55,NA,-6.53,NA,NA,NA,G
+Lastarria,LSTG-5,CVZ,published,-25.15,-68.52,NA,-4.1,NA,NA,NA,G
+Lastarria,LSTG-7,CVZ,published,-25.15,-68.52,NA,NA,NA,NA,NA,G
+Lastarria,LSTG-8,CVZ,published,-25.15,-68.52,NA,-2.7,NA,NA,NA,G
+Lastarria,LSTG-14,CVZ,published,-25.15,-68.52,NA,-1.3,NA,NA,NA,G
+Lastarria,LSTG-15,CVZ,published,-25.15,-68.52,NA,NA,NA,NA,NA,G
+Lastarria,LSTG-17,CVZ,published,-25.15,-68.52,NA,NA,NA,NA,NA,G
+Lastarria,LSTG-20,CVZ,published,-25.15,-68.52,NA,NA,NA,NA,NA,G
+Lastarria,LSTG-22,CVZ,published,-25.15,-68.52,NA,-2.8,NA,NA,NA,G
+Lastarria,LSTG-23,CVZ,published,-25.15,-68.52,NA,-0.4,NA,NA,NA,G
+Lastarria,LSTG-26,CVZ,published,-25.15,-68.52,NA,NA,NA,NA,NA,G
+Rosario de la Frontera,RF02,CVZ,published,-25.84,-64.93,NA,-4.11,1.15,NA,136000000000,G
+Cerro Blanco,LH2,CVZ,published,-26.84,-67.77,NA,-7.77,NA,1.11,63100000000,G
+Cerro Blanco,LH1,CVZ,published,-26.84,-67.77,NA,-7.48,NA,NA,NA,G
+Cerro Blanco,LH3,CVZ,published,-26.84,-67.77,NA,-9.56,NA,NA,NA,G
+Colpitas,Co5,CVZ,published,-17.95,-69.43,NA,-7.4,NA,NA,NA,G
+Colpitas,Co9,CVZ,published,-17.95,-69.43,NA,-7.45,NA,NA,NA,G
+Colpitas,Co12,CVZ,published,-17.95,-69.43,NA,-5.63,NA,NA,NA,G
+Guallatiri,GUA-11,CVZ,published,-18.42,-69.09,NA,-7.3,NA,NA,NA,G
+Guallatiri,GUA-12 231,CVZ,published,-18.42,-69.09,NA,-7.1,NA,NA,NA,G
+Guallatiri,GUA-18 180,CVZ,published,-18.42,-69.09,NA,-8.6,NA,NA,NA,G
+Guallatiri,GUA-19 189,CVZ,published,-18.42,-69.09,NA,-7.6,NA,NA,NA,G
+Guallatiri,GUA-22,CVZ,published,-18.42,-69.09,NA,-7.4,NA,NA,NA,G
+Guallatiri,GUA-24,CVZ,published,-18.42,-69.09,NA,-7.6,NA,NA,NA,G
+Guallatiri,CH-2.1,CVZ,published,-18.34,-69.05,NA,-9.6,NA,NA,NA,G
+Jujuy Province,LQ3,CVZ,published,-23.89,-64.47,NA,-10.4,NA,0.15,1430000000000,G
+Jujuy Province,LQ2,CVZ,published,-23.89,-64.47,NA,-11,NA,0.17,1090000000000,G
+Jujuy Province,LQ1,CVZ,published,-23.89,-64.47,NA,-10.1,NA,0.21,712000000000,G
+Tocomar,TCM2,CVZ,published,-24.18,-66.56,NA,-11.53,NA,1.06,158000000000,G
+Tocomar,TCM4,CVZ,published,-24.18,-66.56,NA,-10.65,NA,1.28,89500000000,G
+Tocomar,TCM1,CVZ,published,-24.18,-66.56,NA,-10.62,NA,NA,NA,G
+Tocomar,TCM3,CVZ,published,-24.18,-66.56,NA,-10.49,NA,NA,NA,G
+Tocomar,TCM5,CVZ,published,-24.18,-66.56,NA,-11.91,NA,NA,NA,G
+Tocomar,TCM6,CVZ,published,-24.18,-66.56,NA,-10.51,NA,NA,NA,G
+Cordon Caulle,LS2,SVZ,published,-40.49,-72.17,NA,NA,5.7,6.2,102000000000,G
+Cordon Caulle,LS1,SVZ,published,-40.49,-72.17,NA,NA,6,6.4,94000000000,G
+Cordon Caulle,AC,SVZ,published,-40.49,-72.17,NA,NA,7,7.3,30000000,G
+Cordon Caulle,AZ,SVZ,published,-40.49,-72.17,NA,NA,2.5,8,39300000000,G
+Las Maquinas,LM4,SVZ,published,-37.84,-71.09,NA,-7.3,NA,7.04,6400000000,G
+Chancho Co,CC3,SVZ,published,-37.83,-71.11,NA,-8.1,NA,7.01,8800000000,G
+Piedra Copahue,PC3,SVZ,published,-37.82,-71.15,NA,-7,NA,4.04,8800000000,G
+Anfiteatro,AF2,SVZ,published,-37.82,-71.11,NA,-7,NA,4.93,4200000000,G
+Las Maquinas,LMM2,SVZ,published,-37.82,-71.09,NA,-7.1,NA,6.97,5100000000,G
+Tupungatito,Tu8,SVZ,published,-33.39,-69.82,NA,-0.3,5.06,NA,127000000000,G
+Tupungatito,Tu7,SVZ,published,-33.39,-69.82,NA,-6.74,6.09,NA,141000000000,G
+Tupungatito,Tu3,SVZ,published,-33.39,-69.82,NA,-8.16,5.19,NA,143000000000,G
+Tupungatito,Tu1,SVZ,published,-33.39,-69.82,NA,-7.65,5.45,NA,154000000000,G
+Tupungatito,Tu5,SVZ,published,-33.39,-69.82,NA,-7.11,5.26,NA,175000000000,G
+Tupungatito,Tu10,SVZ,published,-33.39,-69.82,NA,-6.29,5.41,NA,195000000000,G
+Tupungatito,Tu12,SVZ,published,-33.39,-69.82,NA,-6.67,5.78,NA,214000000000,G
+Tupungatito,Tu6,SVZ,published,-33.39,-69.82,NA,-6.12,5.23,NA,237000000000,G
+Tupungatito,Tu9,SVZ,published,-33.39,-69.82,NA,-5.31,5.16,NA,244000000000,G
+Tupungatito,Tu2,SVZ,published,-33.39,-69.82,NA,-6.92,NA,NA,NA,G
+Tupungatito,Tu4,SVZ,published,-33.39,-69.82,NA,-6.84,NA,NA,NA,G
+Tupungatito,Tu11,SVZ,published,-33.39,-69.82,NA,-6.56,NA,NA,NA,G
+Tupungatito,Tu13,SVZ,published,-33.39,-69.82,NA,-7.31,NA,NA,NA,G
+Cupio,Cp1,SVZ,published,-40.16,-71.92,NA,NA,2.3,NA,NA,G
+Termas del Campanario,49,SVZ,published,-35.93,-70.59,NA,-11.1,NA,NA,NA,G
+Termas del Flaco,32,SVZ,published,-34.96,-70.43,NA,-9.77,NA,NA,NA,G
+Baños Los Humos,30a,SVZ,published,-34.8,-70.46,NA,-8.9,NA,NA,NA,G
+Puente de Tierra,27,SVZ,published,-34.09,-70.06,NA,-10.9,NA,NA,NA,G
+Baños Morales,24,SVZ,published,-33.82,-70.06,NA,-8.6,1.53,1.81,138000000000,G
+Copahue,COP-LM2-BG-15,SVZ,published,-37.84,-71.19,NA,-6.27,NA,NA,NA,G
+Domuyo,D3c,SVZ,published,-36.6,-70.45,NA,-8.05,NA,NA,NA,G
+Domuyo,D5e,SVZ,published,-36.6,-70.45,NA,-7.1,NA,NA,NA,G
+Domuyo,D5g,SVZ,published,-36.6,-70.45,NA,NA,6.88,NA,NA,G
+Domuyo,D9a,SVZ,published,-36.6,-70.45,NA,-7.75,NA,NA,NA,G
+Azufre volcano,Azf2,SVZ,published,-35.32,-70.54,NA,-11.9,NA,NA,NA,G
+Peteroa,Pet4,SVZ,published,-35.24,-70.57,NA,-3,NA,NA,NA,G
+Peteroa,Pet6,SVZ,published,-35.24,-70.57,NA,-2,NA,NA,NA,G
+Copahue Volcano,Las Máquinas,SVZ,published,-37.84,-71.19,NA,-8.8,NA,NA,NA,G
+Copahue Volcano,Las Maquinitas,SVZ,published,-37.84,-71.19,NA,NA,NA,NA,NA,G
+Copahue Volcano,cristina 2,SVZ,published,-37.84,-71.19,NA,-9.5,NA,NA,NA,G
+Chillan,CH5,SVZ,this_study,-36.9,-71.4,NA,-8.5,6.32,NA,50000000000,G
+Chillan,CH6,SVZ,this_study,-36.9,-71.4,NA,-8.3,6.23,NA,53000000000,G
+Cordon Caulle,Las Sopas,SVZ,this_study,-40.49,-72.17,NA,-4.1,6.6,NA,71000000000,G
+Chillan,CH1,SVZ,this_study,-36.9,-71.4,NA,-7.9,NA,NA,NA,G
+Chillan,CH3,SVZ,this_study,-36.9,-71.4,NA,-7.9,NA,NA,NA,G
+Auco,CH-AU200310,SVZ,this_study,-32.89,-70.71,NA,-12.15,0.96,1.13,1712282056151.22,W
+Abra de Nappa,NA,CVZ,published,-20.53,-68.57,0.27,NA,1.06,1.06,NA,W
+Empexa,NA,CVZ,published,-20.53,-68.57,0.39,NA,1.68,1.68,NA,W
+El Medano,CH-EM-200301,SVZ,this_study,-35.82,-70.76,0.4,-10.19,0.94,0.74,34281350639.0367,W
+Panamavida,CH-PM200308,SVZ,this_study,-35.76,-71.42,0.4,-15.34,0.97,0.89,22720409826.2596,W
+Los Banos,NA,CVZ,published,-25.85,-64.93,0.5,NA,0.8,0.52,NA,W
+Termas Tolhuaca,NA,SVZ,published,-38.23,-71.73,0.6,NA,2.58,4.64,NA,W
+Irrupuncu,NA,CVZ,published,-20.72,-68.65,0.68,NA,2.35,3.53,NA,W
+Puritana,NA,CVZ,published,-22.7,-68.57,0.81,NA,1.02,1.03,NA,W
+Caico,NA,CVZ,published,-19.13,-69.08,0.85,NA,3.63,5.19,NA,W
+El Saladillo,NA,CVZ,published,-24.75,-65.1,0.9,NA,0.27,0.27,NA,W
+Banos Turi,NA,CVZ,published,-22.23,-68.3,1.1,NA,1.63,1.87,NA,W
+Pio Perez,AR-PP190301,CVZ,this_study,-25.41,-64.59,1.1,-10.67,0.36,0.11,4864360331.27374,W
+Salar Aguas Cal II,NA,CVZ,published,-23.93,-67.65,1.3,NA,1.78,2.04,NA,W
+Termas Manzanar,NA,SVZ,published,-38.43,-71.67,1.3,NA,1.44,1.59,NA,W
+Eco Termas Pellaifa,PF,SVZ,published,-39.63,-71.92,1.3,-23.9,3.39,4.38,3860000000,W
+Termas de Puyehue,PU,SVZ,published,-40.71,-72.32,1.4,-22.6,4.89,6.07,340000000,W
+Pio Perez,AR-PP190301,CVZ,this_study,-25.41,-64.59,1.4,-10.67,0.33,0.14,21697208055.2422,W
+Termas Palguin II,NA,SVZ,published,-39.38,-71.78,1.5,NA,3.34,3.96,NA,W
+Termas de Rio Blanco,RB,SVZ,published,-39.11,-71.61,1.6,-17,3.56,4.36,1550000000,W
+Copahue,COP-CC3-W-15,SVZ,published,-37.84,-71.19,1.64,-8.24,3.7,4.18,NA,W
+Termas de Con˜ aripe,CO,SVZ,published,-39.63,-71.92,1.7,-20.1,3.69,4.29,1530000000,W
+Termas de Coyuco,CU,SVZ,published,-38.19,-71.04,2.2,-7.8,5.89,6.69,116000000000,W
+Laguna Socompa,NA,CVZ,published,-24.55,-68.27,2.5,NA,1.46,1.52,NA,W
+Termas del Flaco,CH-TF200303,SVZ,this_study,-34.96,-70.43,2.5,NA,1.35,1.4,137464756413.861,W
+Pozo,NA,CVZ,published,-23.87,-64.45,2.7,NA,0.48,0.41,NA,W
+Salar Aguas Cal. I,NA,CVZ,published,-23.53,-67.65,2.7,NA,1.3,1.34,NA,W
+Termas de Trafipan,TR,SVZ,published,-39.74,-71.86,2.7,-23.7,4.43,4.89,60000000,W
+Termas de Chihuio,CH,SVZ,published,-40.19,-71.93,3.4,-23,4.08,4.4,10000000,W
+Banos Toro,NA,CVZ,published,-29.75,-69.97,3.8,NA,1.41,1.45,NA,W
+Sala' Tuyajto,NA,CVZ,published,-23.93,-67.58,3.8,NA,1.77,1.84,NA,W
+Termas Menetue,NA,SVZ,published,-39.32,-71.73,4.5,NA,4.82,5.11,NA,W
+Parque Termal Menetùe,ME,SVZ,published,-39.33,-71.72,4.5,-27.4,5.05,5.42,290000000,W
+Termas Liquine,NA,SVZ,published,-39.42,-71.75,4.9,NA,2.68,2.79,NA,W
+Enqueica,NA,CVZ,published,-19.23,-68.78,5.39,NA,2.75,2.86,NA,W
+LH3,LH3,CVZ,published,-26.88,-67.77,5.4,-9.6,NA,NA,NA,W
+Rosairio de la Frontera,AR-RF190301,CVZ,this_study,-25.84,-64.93,6,-8.28,0.36,0.33,95764291022.7032,W
+LH2,LH2,CVZ,published,-26.88,-67.77,6.1,-7.8,NA,1.11,63100000000,W
+LH1,LH1,CVZ,published,-26.88,-67.77,6.1,-7.5,NA,NA,NA,W
+Lirlma,NA,CVZ,published,-19.85,-68.9,6.72,NA,0.36,0.33,NA,W
+Termas Catillo,NA,SVZ,published,-36.28,-71.65,7.6,NA,0.66,0.65,NA,W
+Cba,Cba,CVZ,published,-26.76,-67.74,7.8,-5.2,NA,2.16,226000000000,W
+EM1,EM1,CVZ,published,-26.85,-67.71,8.7,-9.1,NA,NA,NA,W
+Inca Chule,AR-IN190223,CVZ,this_study,-24.28,-66.47,8.8,NA,1.68,1.71,159272457401.868,W
+Termas Aguas Cal.,NA,SVZ,published,-40.72,-72.33,10.2,NA,6.47,6.65,NA,W
+El Tatio,NA,CVZ,published,-22.32,-68,12.01,NA,1.71,1.73,NA,W
+Inca Chule,AR-IN190223,CVZ,this_study,-24.28,-66.47,12.7,NA,1.77,1.79,19665926845.9939,W
+Tolhuaca⁎,TH,SVZ,published,-38.24,-71.72,14.8,-2.9,2.74,3.2,232000000000,W
+Liquiñe,LQ,SVZ,published,-39.74,-71.83,21.4,-11.7,1.92,2.07,21500000000,W
+Rio Blanco Las Vacas,RB,SVZ,published,-38.58,-71.63,21.5,-12.1,3.06,3.41,31700000000,W
+Termas de Catillo,CH-CT200308,SVZ,this_study,-36.29,-71.65,25.3,-17.17,0.65,0.65,3687743220.29859,W
+Pucon Mahuida,PM,SVZ,published,-37.9,-71.18,27.6,-11.9,6.16,6.23,57800000000,W
+Termas Cauquenes,NA,SVZ,published,-34.25,-70.55,34.7,NA,1.56,1.57,NA,W
+Aguas Calientes,ACA,SVZ,published,-40.74,-72.31,34.8,-9.5,5.66,6.12,8900000000,W
+Trapa Trapa,TT,SVZ,published,-37.7,-71.28,48.8,-25.5,4.38,4.4,10000000,W
+Quimey-Co,QC,SVZ,published,-39.22,-71.7,52.4,-17.1,4.27,4.48,2670000000,W
+Quimey-Co,QC,SVZ,published,-39.22,-71.7,54.3,-17.2,4.52,4.74,2710000000,W
+Termas de Pemehue,PE,SVZ,published,-38.08,-71.7,55.5,-25.8,4.69,4.71,410000000,W
+Mamina,NA,CVZ,published,-20.47,-69.33,58.9,NA,0.08,0.07,NA,W
+Botijuela Vista,AR-BJ190222,CVZ,this_study,-25.74,-67.82,64.5,NA,1.24,1.24,82060688935.94,W
+Hipólito Muñoz,HM1,SVZ,published,-39.76,-71.79,69.7,-6.4,2.78,2.86,5280000000,W
+Villa Vil,AR-VV190228,CVZ,this_study,-27.11,-66.82,79.5,-13.28,0.9,0.89,8828051197.98385,W
+Antuco,AR-AO190224,CVZ,this_study,-24.18,-66.67,99.8,-7.66,1.96,1.96,6673353464.81371,W
+Quilaquin,QL,SVZ,published,-37.61,-71.41,100.5,-14.3,4.23,4.33,1860000000,W
+Chihuío,CH,SVZ,published,-40.19,-71.93,103.6,-10.8,4.31,4.41,930000000,W
+Nitrao,NT,SVZ,published,-37.69,-71.3,107.7,-11.5,3.31,3.38,4200000000,W
+Pasto Grande,AR-PG190225,CVZ,this_study,-24.36,-66.57,107.7,-15.33,1.34,1.34,NA,W
+Hipólito Muñoz,HM2,SVZ,published,-39.76,-71.79,111.1,-5.9,2.9,2.96,6120000000,W
+Quilaquin,QL,SVZ,published,-37.61,-71.41,112.7,-16.6,4.23,4.33,1380000000,W
+Puyehue,PY,SVZ,published,-40.71,-72.33,117.1,-14.1,5.15,5.27,3750000000,W
+Nitrao,NT,SVZ,published,-37.69,-71.3,142.2,-13.9,3.16,3.21,3820000000,W
+El Sauce,NA,CVZ,published,-24.58,-66.33,173.3,NA,0.38,0.38,NA,W
+Aguas Caliente Galan,AR-GA190226,CVZ,this_study,-25.83,-66.92,177.3,-1.5,1.56,1.56,87787131708.0839,W
+Minetúe,MN,SVZ,published,-39.25,-71.72,208.4,-17.7,4.89,4.95,1460000000,W
+Coñaripe,CN,SVZ,published,-39.64,-71.92,210.6,-11.3,4.09,4.13,3630000000,W
+Balboa,BB,SVZ,published,-38.96,-71.71,357.9,-10.8,6.41,6.46,2620000000,W
+Balboa,BB,SVZ,published,-38.96,-71.71,461.5,-10.8,6.43,6.47,2620000000,W
+Todoss Santos,NA,CVZ,published,-19.05,-68.85,NA,NA,3.4,3.4,NA,W
+Churiguyaya,NA,CVZ,published,-18.35,-69.02,NA,NA,0.92,0.92,NA,W
+Sajama,NA,CVZ,published,-18.07,-68.97,NA,NA,1.42,1.42,NA,W
+Rosario de la Frontera,RF10,CVZ,published,-25.84,-64.93,NA,-3.66,0.98,NA,168000000000,W
+Rosario de la Frontera,RF01,CVZ,published,-25.84,-64.93,NA,-6.56,NA,NA,NA,W
+Rosario de la Frontera,RF03,CVZ,published,-25.84,-64.93,NA,-7.13,NA,NA,NA,W
+Rosario de la Frontera,RF04,CVZ,published,-25.84,-64.93,NA,-5.66,NA,NA,NA,W
+Rosario de la Frontera,RF05,CVZ,published,-25.84,-64.93,NA,-5.16,NA,NA,NA,W
+Rosario de la Frontera,RF06,CVZ,published,-25.84,-64.93,NA,-4.15,NA,NA,NA,W
+Rosario de la Frontera,RF08,CVZ,published,-25.84,-64.93,NA,-11.49,NA,NA,NA,W
+Rosario de la Frontera,RF09,CVZ,published,-25.84,-64.93,NA,-4.11,NA,NA,NA,W
+Rosario de la Frontera,RF11,CVZ,published,-25.84,-64.93,NA,-4.44,NA,NA,NA,W
+Rosario de la Frontera,RF13,CVZ,published,-25.84,-64.93,NA,-3.77,NA,NA,NA,W
+Cerro Blanco,EM1,CVZ,published,-26.84,-67.77,NA,-9.12,NA,NA,NA,W
+Jujuy Province,AC1,CVZ,published,-24.55,-64.94,NA,-13.6,NA,NA,NA,W
+Jujuy Province,EP2,CVZ,published,-24.08,-65.54,NA,-11.9,NA,0.09,2300000000000,W
+Jujuy Province,EP1,CVZ,published,-24.08,-65.54,NA,-13.1,NA,NA,NA,W
+Jujuy Province,EP3,CVZ,published,-24.08,-65.54,NA,-13.6,NA,NA,NA,W
+Jujuy Province,SA,CVZ,published,-23.86,-64.43,NA,-10,NA,0.11,1570000000000,W
+Jujuy Province,SA,CVZ,published,-23.86,-64.43,NA,-11.5,NA,NA,NA,W
+Jujuy Province,CA1,CVZ,published,-23.74,-64.52,NA,-16.4,NA,NA,NA,W
+Jujuy Province,CA2,CVZ,published,-23.74,-64.52,NA,-17.6,NA,NA,NA,W
+Jujuy Province,CA3,CVZ,published,-23.74,-64.52,NA,-17.1,NA,NA,NA,W
+Jujuy Province,EJ,CVZ,published,-23.66,-66.47,NA,-18.7,NA,NA,NA,W
+Jujuy Province,RE1,CVZ,published,-20.17,-65.49,NA,-12.5,NA,NA,NA,W
+Jujuy Province,RE2,CVZ,published,-20.17,-65.49,NA,-12.9,NA,NA,NA,W
+Jujuy Province,RE3,CVZ,published,-20.17,-65.49,NA,-13.1,NA,NA,NA,W
