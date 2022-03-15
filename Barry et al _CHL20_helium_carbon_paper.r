@@ -214,7 +214,7 @@ geom_rect(aes(xmin = -0.6, xmax = 0.5, ymin = 0.7e+13, ymax = 1.2e+13), fill = "
 
 annotate(geom="text", x=-6, y=0.8e+09, label="mantle", color="black", size=6, alpha=0.6) +
 annotate(geom="text", x=-30, y=1.65e+13, label="sediment", color="black", size=6, alpha=0.6) +
-annotate(geom="text", x=0, y=1.65e+13, label="crust", color="black", size=6, alpha=0.6) +
+annotate(geom="text", x=0, y=1.65e+13, label="limestone", color="black", size=6, alpha=0.6) +
 
 geom_point(aes(fill=region, alpha=origin), shape=24, size=6, stroke=0.3) +
 scale_fill_manual(values=c("#00a2ff", "#ffb100")) +
@@ -348,5 +348,27 @@ theme_nogrid_minor()+
 theme_nomask()
 
 ggsave(file="Figure5_ternary.svg", width=12, height=8)
+
+#Rc/Ra vs LAB Depth
+
+ggplot(subset(hec_dataset, region %in% c("CVZ", "SVZ")), aes(LabDepth,rc_ra)) +
+geom_rect(aes(xmin = 1e+09, xmax = 1.6e+09, ymin = -45, ymax = -15), fill = "lightgrey", alpha=0.3) +
+annotate(geom="text", x=1.25e+09, y=-30, label="mantle", color="black", size=6, alpha=0.6, angle = 90) +
+geom_point(aes(fill=region, alpha=origin, shape=phase),size=6, stroke=0.3) +
+scale_fill_manual(values=c("#00a2ff", "#ffb100")) +
+scale_shape_manual(values = c(24, 21), labels = c("gas", "water")) +
+scale_alpha_manual(values = c(0.3, 0.9),labels = c("literature", "this study")) +
+guides(fill = guide_legend(override.aes=list(shape=21))) +
+#scale_x_continuous(trans='log10') +
+labs(title="",
+     subtitle="",
+     shape="Phase",
+     alpha="Data from",
+     fill="Volcanic Zone",
+     x="LAB Depth (km)",
+     y="³He/⁴He (Rc/Ra)") +
+theme_glab(base_size = 22)
+
+ggsave(file="Figure5_Rc-Ra vs LAB.svg", width=12, height=8)
 
 save.image()
